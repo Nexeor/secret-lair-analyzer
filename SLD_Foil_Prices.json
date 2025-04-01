@@ -1,0 +1,3282 @@
+[
+    {
+        "name": "Mana Vault",
+        "price_usd": "1012.17"
+    },
+    {
+        "name": "Elesh Norn, Grand Cenobite",
+        "price_usd": "601.43"
+    },
+    {
+        "name": "Liliana Vess // Liliana Vess",
+        "price_usd": "590.19"
+    },
+    {
+        "name": "Chandra Nalaar // Chandra Nalaar",
+        "price_usd": "417.50"
+    },
+    {
+        "name": "Minsc & Boo, Timeless Heroes",
+        "price_usd": "383.34"
+    },
+    {
+        "name": "Jace Beleren // Jace Beleren",
+        "price_usd": "304.24"
+    },
+    {
+        "name": "Wilhelt, the Rotcleaver",
+        "price_usd": "294.16"
+    },
+    {
+        "name": "Echo of Eons",
+        "price_usd": "246.67"
+    },
+    {
+        "name": "Ajani Goldmane // Ajani Goldmane",
+        "price_usd": "197.98"
+    },
+    {
+        "name": "Persistent Petitioners",
+        "price_usd": "180.18"
+    },
+    {
+        "name": "Sliver Hive",
+        "price_usd": "171.64"
+    },
+    {
+        "name": "Abundant Growth",
+        "price_usd": "153.57"
+    },
+    {
+        "name": "Dark Ritual",
+        "price_usd": "135.45"
+    },
+    {
+        "name": "Thassa's Oracle",
+        "price_usd": "122.51"
+    },
+    {
+        "name": "Mental Misstep",
+        "price_usd": "106.52"
+    },
+    {
+        "name": "Eldrazi Temple",
+        "price_usd": "105.23"
+    },
+    {
+        "name": "Kodama's Reach",
+        "price_usd": "100.90"
+    },
+    {
+        "name": "Field of the Dead",
+        "price_usd": "100.14"
+    },
+    {
+        "name": "The Ur-Dragon",
+        "price_usd": "96.82"
+    },
+    {
+        "name": "Archangel of Thune",
+        "price_usd": "96.16"
+    },
+    {
+        "name": "Gisela, the Broken Blade",
+        "price_usd": "95.48"
+    },
+    {
+        "name": "Gemhide Sliver",
+        "price_usd": "91.04"
+    },
+    {
+        "name": "Old Gnawbone",
+        "price_usd": "90.98"
+    },
+    {
+        "name": "The Fourteenth Doctor",
+        "price_usd": "83.14"
+    },
+    {
+        "name": "Quick Sliver",
+        "price_usd": "82.75"
+    },
+    {
+        "name": "Anointed Procession // Anointed Procession",
+        "price_usd": "80.98"
+    },
+    {
+        "name": "Tiamat",
+        "price_usd": "78.32"
+    },
+    {
+        "name": "Bruna, the Fading Light",
+        "price_usd": "77.67"
+    },
+    {
+        "name": "Relentless Rats",
+        "price_usd": "76.08"
+    },
+    {
+        "name": "Battle Angels of Tyr",
+        "price_usd": "71.92"
+    },
+    {
+        "name": "Blur Sliver",
+        "price_usd": "71.05"
+    },
+    {
+        "name": "Rhystic Study",
+        "price_usd": "70.01"
+    },
+    {
+        "name": "Headless Rider",
+        "price_usd": "69.69"
+    },
+    {
+        "name": "Lord Windgrace",
+        "price_usd": "69.23"
+    },
+    {
+        "name": "Mana Confluence",
+        "price_usd": "68.75"
+    },
+    {
+        "name": "Constricting Sliver",
+        "price_usd": "67.53"
+    },
+    {
+        "name": "Sliver Overlord",
+        "price_usd": "66.23"
+    },
+    {
+        "name": "Toxrill, the Corrosive",
+        "price_usd": "61.24"
+    },
+    {
+        "name": "Syr Konrad, the Grim",
+        "price_usd": "60.37"
+    },
+    {
+        "name": "Arahbo, Roar of the World",
+        "price_usd": "60.18"
+    },
+    {
+        "name": "Jodah, the Unifier",
+        "price_usd": "60.00"
+    },
+    {
+        "name": "Underworld Dreams",
+        "price_usd": "59.23"
+    },
+    {
+        "name": "Heirloom Blade",
+        "price_usd": "55.70"
+    },
+    {
+        "name": "Strip Mine",
+        "price_usd": "55.43"
+    },
+    {
+        "name": "Nyxbloom Ancient",
+        "price_usd": "55.19"
+    },
+    {
+        "name": "Bonescythe Sliver",
+        "price_usd": "54.05"
+    },
+    {
+        "name": "Galerider Sliver",
+        "price_usd": "53.27"
+    },
+    {
+        "name": "Darksteel Citadel",
+        "price_usd": "52.45"
+    },
+    {
+        "name": "Nicol Bolas, the Ravager // Nicol Bolas, the Arisen",
+        "price_usd": "52.26"
+    },
+    {
+        "name": "Striking Sliver",
+        "price_usd": "51.84"
+    },
+    {
+        "name": "The First Sliver",
+        "price_usd": "51.75"
+    },
+    {
+        "name": "Teysa Karlov",
+        "price_usd": "51.73"
+    },
+    {
+        "name": "Teferi's Protection",
+        "price_usd": "49.60"
+    },
+    {
+        "name": "Walking Ballista",
+        "price_usd": "48.93"
+    },
+    {
+        "name": "Yoshimaru, Ever Faithful",
+        "price_usd": "48.76"
+    },
+    {
+        "name": "It That Betrays",
+        "price_usd": "48.61"
+    },
+    {
+        "name": "Emrakul, the Promised End",
+        "price_usd": "48.41"
+    },
+    {
+        "name": "Blightsteel Colossus // Blightsteel Colossus",
+        "price_usd": "47.71"
+    },
+    {
+        "name": "Glen Elendra Archmage",
+        "price_usd": "47.43"
+    },
+    {
+        "name": "Phage the Untouchable",
+        "price_usd": "47.23"
+    },
+    {
+        "name": "Greymond, Avacyn's Stalwart",
+        "price_usd": "46.83"
+    },
+    {
+        "name": "Burgeoning",
+        "price_usd": "45.91"
+    },
+    {
+        "name": "Sliver Legion",
+        "price_usd": "45.82"
+    },
+    {
+        "name": "Scion of the Ur-Dragon",
+        "price_usd": "45.67"
+    },
+    {
+        "name": "Seedborn Muse",
+        "price_usd": "44.51"
+    },
+    {
+        "name": "Phyrexian Tower",
+        "price_usd": "44.15"
+    },
+    {
+        "name": "Three Visits",
+        "price_usd": "43.89"
+    },
+    {
+        "name": "Linvala, Keeper of Silence",
+        "price_usd": "42.79"
+    },
+    {
+        "name": "Descendants' Path",
+        "price_usd": "42.71"
+    },
+    {
+        "name": "Sakashima of a Thousand Faces // Sakashima of a Thousand Faces",
+        "price_usd": "42.48"
+    },
+    {
+        "name": "Rogue's Passage",
+        "price_usd": "42.34"
+    },
+    {
+        "name": "Elvish Champion",
+        "price_usd": "42.08"
+    },
+    {
+        "name": "Purphoros, God of the Forge",
+        "price_usd": "41.56"
+    },
+    {
+        "name": "Themberchaud",
+        "price_usd": "41.34"
+    },
+    {
+        "name": "Erebos, God of the Dead",
+        "price_usd": "41.15"
+    },
+    {
+        "name": "Swiftfoot Boots",
+        "price_usd": "40.76"
+    },
+    {
+        "name": "Vindictive Lich",
+        "price_usd": "40.67"
+    },
+    {
+        "name": "Shadowspear",
+        "price_usd": "40.59"
+    },
+    {
+        "name": "Sword of Truth and Justice",
+        "price_usd": "40.38"
+    },
+    {
+        "name": "Generous Gift",
+        "price_usd": "40.07"
+    },
+    {
+        "name": "Pyretic Ritual",
+        "price_usd": "39.65"
+    },
+    {
+        "name": "Athreos, God of Passage",
+        "price_usd": "39.28"
+    },
+    {
+        "name": "Bloodline Keeper // Lord of Lineage",
+        "price_usd": "38.71"
+    },
+    {
+        "name": "Nezahal, Primal Tide",
+        "price_usd": "38.69"
+    },
+    {
+        "name": "Lara Croft, Tomb Raider",
+        "price_usd": "37.87"
+    },
+    {
+        "name": "Exotic Orchard",
+        "price_usd": "37.57"
+    },
+    {
+        "name": "Fynn, the Fangbearer",
+        "price_usd": "37.53"
+    },
+    {
+        "name": "Rainbow Dash",
+        "price_usd": "37.53"
+    },
+    {
+        "name": "Blasphemous Act",
+        "price_usd": "37.31"
+    },
+    {
+        "name": "Bloom Tender",
+        "price_usd": "36.80"
+    },
+    {
+        "name": "Revel in Riches",
+        "price_usd": "36.65"
+    },
+    {
+        "name": "Rashel, Fist of Torm",
+        "price_usd": "36.54"
+    },
+    {
+        "name": "Discord, Lord of Disharmony",
+        "price_usd": "36.36"
+    },
+    {
+        "name": "Esika, God of the Tree // The Prismatic Bridge",
+        "price_usd": "36.29"
+    },
+    {
+        "name": "Pontiff of Blight",
+        "price_usd": "36.12"
+    },
+    {
+        "name": "Jeska, Thrice Reborn",
+        "price_usd": "35.94"
+    },
+    {
+        "name": "Sisay, Weatherlight Captain",
+        "price_usd": "35.92"
+    },
+    {
+        "name": "Demonic Consultation",
+        "price_usd": "35.87"
+    },
+    {
+        "name": "Meren of Clan Nel Toth",
+        "price_usd": "35.59"
+    },
+    {
+        "name": "Rin and Seri, Inseparable",
+        "price_usd": "35.56"
+    },
+    {
+        "name": "Emeria, the Sky Ruin",
+        "price_usd": "35.21"
+    },
+    {
+        "name": "Dragon's Hoard",
+        "price_usd": "35.10"
+    },
+    {
+        "name": "Serra Ascendant",
+        "price_usd": "34.69"
+    },
+    {
+        "name": "Amulet of Vigor",
+        "price_usd": "34.67"
+    },
+    {
+        "name": "Tinybones, Trinket Thief",
+        "price_usd": "34.48"
+    },
+    {
+        "name": "Swarmyard",
+        "price_usd": "34.37"
+    },
+    {
+        "name": "Nekusar, the Mindrazer",
+        "price_usd": "34.08"
+    },
+    {
+        "name": "Beast Within",
+        "price_usd": "33.99"
+    },
+    {
+        "name": "Dryad of the Ilysian Grove",
+        "price_usd": "33.70"
+    },
+    {
+        "name": "Lotus Cobra",
+        "price_usd": "33.64"
+    },
+    {
+        "name": "Zurgo Helmsmasher",
+        "price_usd": "33.62"
+    },
+    {
+        "name": "Iroas, God of Victory",
+        "price_usd": "33.60"
+    },
+    {
+        "name": "Void Winnower",
+        "price_usd": "33.57"
+    },
+    {
+        "name": "Atraxa, Praetors' Voice",
+        "price_usd": "33.30"
+    },
+    {
+        "name": "Narset, Parter of Veils",
+        "price_usd": "32.90"
+    },
+    {
+        "name": "Geralf's Messenger",
+        "price_usd": "32.77"
+    },
+    {
+        "name": "Craterhoof Behemoth",
+        "price_usd": "31.26"
+    },
+    {
+        "name": "Puresteel Paladin",
+        "price_usd": "31.15"
+    },
+    {
+        "name": "Nylea, God of the Hunt",
+        "price_usd": "31.02"
+    },
+    {
+        "name": "Kokusho, the Evening Star",
+        "price_usd": "30.92"
+    },
+    {
+        "name": "Akroma's Memorial",
+        "price_usd": "30.80"
+    },
+    {
+        "name": "Mycoloth",
+        "price_usd": "30.75"
+    },
+    {
+        "name": "Zndrsplt, Eye of Wisdom // Zndrsplt, Eye of Wisdom",
+        "price_usd": "30.57"
+    },
+    {
+        "name": "Casal, Lurkwood Pathfinder // Casal, Pathbreaker Owlbear",
+        "price_usd": "30.11"
+    },
+    {
+        "name": "Ulamog, the Ceaseless Hunger // Ulamog, the Ceaseless Hunger",
+        "price_usd": "29.82"
+    },
+    {
+        "name": "Samut, Voice of Dissent",
+        "price_usd": "29.69"
+    },
+    {
+        "name": "Blind Obedience",
+        "price_usd": "29.38"
+    },
+    {
+        "name": "Phenax, God of Deception",
+        "price_usd": "29.09"
+    },
+    {
+        "name": "Great Furnace",
+        "price_usd": "28.98"
+    },
+    {
+        "name": "Avenger of Zendikar",
+        "price_usd": "28.97"
+    },
+    {
+        "name": "Seat of the Synod",
+        "price_usd": "28.94"
+    },
+    {
+        "name": "Xenagos, God of Revels",
+        "price_usd": "28.89"
+    },
+    {
+        "name": "Higure, the Still Wind",
+        "price_usd": "28.84"
+    },
+    {
+        "name": "Ashnod's Altar",
+        "price_usd": "28.83"
+    },
+    {
+        "name": "Isolated Chapel",
+        "price_usd": "28.78"
+    },
+    {
+        "name": "Eldrazi Monument",
+        "price_usd": "28.34"
+    },
+    {
+        "name": "Uro, Titan of Nature's Wrath",
+        "price_usd": "28.09"
+    },
+    {
+        "name": "Mystical Tutor",
+        "price_usd": "28.01"
+    },
+    {
+        "name": "Gravecrawler",
+        "price_usd": "27.79"
+    },
+    {
+        "name": "Massacre Girl",
+        "price_usd": "27.70"
+    },
+    {
+        "name": "Zur the Enchanter",
+        "price_usd": "27.36"
+    },
+    {
+        "name": "Seize the Day",
+        "price_usd": "27.35"
+    },
+    {
+        "name": "Sakashima the Impostor",
+        "price_usd": "27.21"
+    },
+    {
+        "name": "Bohn, Beguiling Balladeer",
+        "price_usd": "27.01"
+    },
+    {
+        "name": "Food Chain",
+        "price_usd": "27.00"
+    },
+    {
+        "name": "Veil of Summer",
+        "price_usd": "26.74"
+    },
+    {
+        "name": "Dramatic Reversal",
+        "price_usd": "26.71"
+    },
+    {
+        "name": "Rograkh, Son of Rohgahh",
+        "price_usd": "26.24"
+    },
+    {
+        "name": "Abrade",
+        "price_usd": "26.05"
+    },
+    {
+        "name": "The Gitrog Monster",
+        "price_usd": "26.03"
+    },
+    {
+        "name": "Hedron Archive",
+        "price_usd": "25.94"
+    },
+    {
+        "name": "Archaeomancer",
+        "price_usd": "25.80"
+    },
+    {
+        "name": "Thassa, Deep-Dwelling",
+        "price_usd": "25.63"
+    },
+    {
+        "name": "Zulaport Cutthroat",
+        "price_usd": "25.58"
+    },
+    {
+        "name": "Archangel Avacyn // Avacyn, the Purifier",
+        "price_usd": "25.53"
+    },
+    {
+        "name": "Pinkie Pie",
+        "price_usd": "25.39"
+    },
+    {
+        "name": "Waste Not",
+        "price_usd": "25.30"
+    },
+    {
+        "name": "Mirri, Weatherlight Duelist",
+        "price_usd": "25.17"
+    },
+    {
+        "name": "Stoneforge Mystic",
+        "price_usd": "25.17"
+    },
+    {
+        "name": "Ghave, Guru of Spores",
+        "price_usd": "25.13"
+    },
+    {
+        "name": "Grist, the Hunger Tide",
+        "price_usd": "24.89"
+    },
+    {
+        "name": "Admonition Angel",
+        "price_usd": "24.88"
+    },
+    {
+        "name": "Brain Freeze",
+        "price_usd": "24.88"
+    },
+    {
+        "name": "The Fifteenth Doctor",
+        "price_usd": "24.55"
+    },
+    {
+        "name": "Geier Reach Sanitarium",
+        "price_usd": "24.50"
+    },
+    {
+        "name": "Carpet of Flowers",
+        "price_usd": "24.31"
+    },
+    {
+        "name": "Bolas's Citadel",
+        "price_usd": "24.26"
+    },
+    {
+        "name": "Court of Grace",
+        "price_usd": "24.18"
+    },
+    {
+        "name": "Counterbalance",
+        "price_usd": "24.01"
+    },
+    {
+        "name": "Michiko Konda, Truth Seeker",
+        "price_usd": "23.98"
+    },
+    {
+        "name": "Leonin Warleader",
+        "price_usd": "23.95"
+    },
+    {
+        "name": "Jetmir, Nexus of Revels // Jetmir, Nexus of Revels",
+        "price_usd": "23.93"
+    },
+    {
+        "name": "Eldritch Evolution",
+        "price_usd": "23.89"
+    },
+    {
+        "name": "Rise of the Dark Realms",
+        "price_usd": "23.89"
+    },
+    {
+        "name": "Okaun, Eye of Chaos // Okaun, Eye of Chaos",
+        "price_usd": "23.33"
+    },
+    {
+        "name": "Grand Abolisher",
+        "price_usd": "23.17"
+    },
+    {
+        "name": "Brimaz, King of Oreskos",
+        "price_usd": "23.15"
+    },
+    {
+        "name": "Tangle Wire",
+        "price_usd": "23.08"
+    },
+    {
+        "name": "Omnath, Locus of Rage",
+        "price_usd": "22.99"
+    },
+    {
+        "name": "Westvale Abbey // Ormendahl, Profane Prince",
+        "price_usd": "22.61"
+    },
+    {
+        "name": "Noxious Revival",
+        "price_usd": "22.56"
+    },
+    {
+        "name": "Night's Whisper",
+        "price_usd": "22.31"
+    },
+    {
+        "name": "Paradise Mantle",
+        "price_usd": "22.30"
+    },
+    {
+        "name": "Concordant Crossroads",
+        "price_usd": "22.25"
+    },
+    {
+        "name": "Faeburrow Elder",
+        "price_usd": "22.13"
+    },
+    {
+        "name": "Collector Ouphe",
+        "price_usd": "22.07"
+    },
+    {
+        "name": "Tevesh Szat, Doom of Fools",
+        "price_usd": "22.06"
+    },
+    {
+        "name": "Vial Smasher the Fierce",
+        "price_usd": "22.06"
+    },
+    {
+        "name": "Elspeth, Sun's Champion",
+        "price_usd": "21.97"
+    },
+    {
+        "name": "Aggravated Assault",
+        "price_usd": "21.83"
+    },
+    {
+        "name": "Winds of Change",
+        "price_usd": "21.81"
+    },
+    {
+        "name": "Temporal Manipulation",
+        "price_usd": "21.79"
+    },
+    {
+        "name": "Wasteland",
+        "price_usd": "21.70"
+    },
+    {
+        "name": "Academy Ruins",
+        "price_usd": "21.35"
+    },
+    {
+        "name": "Bottomless Pit",
+        "price_usd": "21.25"
+    },
+    {
+        "name": "Krark's Thumb // Krark's Thumb",
+        "price_usd": "21.19"
+    },
+    {
+        "name": "Sen Triplets",
+        "price_usd": "21.19"
+    },
+    {
+        "name": "Triumph of the Hordes",
+        "price_usd": "21.07"
+    },
+    {
+        "name": "Stitcher's Supplier",
+        "price_usd": "21.04"
+    },
+    {
+        "name": "Davriel, Rogue Shadowmage",
+        "price_usd": "20.98"
+    },
+    {
+        "name": "Damnation",
+        "price_usd": "20.67"
+    },
+    {
+        "name": "Sonic Screwdriver",
+        "price_usd": "20.58"
+    },
+    {
+        "name": "Wheel and Deal",
+        "price_usd": "20.48"
+    },
+    {
+        "name": "All Is Dust",
+        "price_usd": "20.39"
+    },
+    {
+        "name": "Krenko, Tin Street Kingpin",
+        "price_usd": "20.39"
+    },
+    {
+        "name": "Vault of the Archangel",
+        "price_usd": "20.38"
+    },
+    {
+        "name": "Ornithopter",
+        "price_usd": "20.36"
+    },
+    {
+        "name": "Evolution Sage",
+        "price_usd": "20.19"
+    },
+    {
+        "name": "Karametra, God of Harvests",
+        "price_usd": "20.03"
+    },
+    {
+        "name": "Roil Elemental",
+        "price_usd": "20.03"
+    },
+    {
+        "name": "Elvish Spirit Guide",
+        "price_usd": "19.95"
+    },
+    {
+        "name": "Lord of the Undead",
+        "price_usd": "19.84"
+    },
+    {
+        "name": "Phyrexian Crusader",
+        "price_usd": "19.77"
+    },
+    {
+        "name": "Fluttershy",
+        "price_usd": "19.65"
+    },
+    {
+        "name": "Marrow-Gnawer",
+        "price_usd": "19.59"
+    },
+    {
+        "name": "Regal Caracal",
+        "price_usd": "19.59"
+    },
+    {
+        "name": "Chain Lightning",
+        "price_usd": "19.56"
+    },
+    {
+        "name": "Scourge of the Throne",
+        "price_usd": "19.46"
+    },
+    {
+        "name": "Misdirection",
+        "price_usd": "19.44"
+    },
+    {
+        "name": "Force of Despair",
+        "price_usd": "19.22"
+    },
+    {
+        "name": "Mistbind Clique",
+        "price_usd": "19.10"
+    },
+    {
+        "name": "Smuggler's Copter",
+        "price_usd": "19.01"
+    },
+    {
+        "name": "Skrelv, Defector Mite",
+        "price_usd": "18.99"
+    },
+    {
+        "name": "Spellseeker",
+        "price_usd": "18.82"
+    },
+    {
+        "name": "Inkshield",
+        "price_usd": "18.79"
+    },
+    {
+        "name": "Thassa, God of the Sea",
+        "price_usd": "18.76"
+    },
+    {
+        "name": "Fellwar Stone",
+        "price_usd": "18.75"
+    },
+    {
+        "name": "Violent Outburst",
+        "price_usd": "18.72"
+    },
+    {
+        "name": "Goreclaw, Terror of Qal Sisma",
+        "price_usd": "18.66"
+    },
+    {
+        "name": "Zethi, Arcane Blademaster",
+        "price_usd": "18.51"
+    },
+    {
+        "name": "Snap",
+        "price_usd": "18.47"
+    },
+    {
+        "name": "Mass Hysteria",
+        "price_usd": "18.44"
+    },
+    {
+        "name": "Primeval Titan",
+        "price_usd": "18.39"
+    },
+    {
+        "name": "Unbound Flourishing",
+        "price_usd": "18.33"
+    },
+    {
+        "name": "Praetor's Grasp",
+        "price_usd": "17.92"
+    },
+    {
+        "name": "Daze",
+        "price_usd": "17.89"
+    },
+    {
+        "name": "Pyromancer's Goggles",
+        "price_usd": "17.89"
+    },
+    {
+        "name": "Ulvenwald Tracker",
+        "price_usd": "17.87"
+    },
+    {
+        "name": "Virulent Sliver",
+        "price_usd": "17.76"
+    },
+    {
+        "name": "Qasali Slingers",
+        "price_usd": "17.74"
+    },
+    {
+        "name": "Deafening Silence",
+        "price_usd": "17.65"
+    },
+    {
+        "name": "Forced Fruition",
+        "price_usd": "17.64"
+    },
+    {
+        "name": "Liliana, Death's Majesty",
+        "price_usd": "17.61"
+    },
+    {
+        "name": "Reassembling Skeleton",
+        "price_usd": "17.59"
+    },
+    {
+        "name": "Grim Tutor",
+        "price_usd": "17.54"
+    },
+    {
+        "name": "Inevitable Betrayal",
+        "price_usd": "17.54"
+    },
+    {
+        "name": "Midnight Reaper",
+        "price_usd": "17.54"
+    },
+    {
+        "name": "Grafdigger's Cage",
+        "price_usd": "17.53"
+    },
+    {
+        "name": "Kami of the Crescent Moon",
+        "price_usd": "17.51"
+    },
+    {
+        "name": "Jhoira, Weatherlight Captain",
+        "price_usd": "17.49"
+    },
+    {
+        "name": "Heliod, Sun-Crowned",
+        "price_usd": "17.30"
+    },
+    {
+        "name": "Questing Beast",
+        "price_usd": "17.27"
+    },
+    {
+        "name": "Niv-Mizzet, Parun",
+        "price_usd": "17.26"
+    },
+    {
+        "name": "Evin, Waterdeep Opportunist",
+        "price_usd": "17.23"
+    },
+    {
+        "name": "Arvinox, the Mind Flail",
+        "price_usd": "17.22"
+    },
+    {
+        "name": "Panharmonicon",
+        "price_usd": "17.09"
+    },
+    {
+        "name": "Braid of Fire",
+        "price_usd": "17.05"
+    },
+    {
+        "name": "Doubling Cube // Doubling Cube",
+        "price_usd": "16.97"
+    },
+    {
+        "name": "Ignoble Hierarch",
+        "price_usd": "16.90"
+    },
+    {
+        "name": "The Celestial Toymaker",
+        "price_usd": "16.78"
+    },
+    {
+        "name": "Zombie Master // Zombie Master",
+        "price_usd": "16.72"
+    },
+    {
+        "name": "Beastmaster Ascension",
+        "price_usd": "16.63"
+    },
+    {
+        "name": "Go-Shintai of Life's Origin",
+        "price_usd": "16.63"
+    },
+    {
+        "name": "Colossus Hammer",
+        "price_usd": "16.61"
+    },
+    {
+        "name": "Razaketh, the Foulblooded",
+        "price_usd": "16.42"
+    },
+    {
+        "name": "Warren Instigator",
+        "price_usd": "16.38"
+    },
+    {
+        "name": "Nicol Bolas",
+        "price_usd": "16.22"
+    },
+    {
+        "name": "Vendilion Clique",
+        "price_usd": "16.15"
+    },
+    {
+        "name": "Corpse Connoisseur",
+        "price_usd": "16.14"
+    },
+    {
+        "name": "Consider",
+        "price_usd": "16.10"
+    },
+    {
+        "name": "Sphere of Safety",
+        "price_usd": "16.09"
+    },
+    {
+        "name": "Stasis",
+        "price_usd": "16.09"
+    },
+    {
+        "name": "The World Tree",
+        "price_usd": "16.04"
+    },
+    {
+        "name": "Frantic Search",
+        "price_usd": "16.00"
+    },
+    {
+        "name": "Angel of Serenity",
+        "price_usd": "15.96"
+    },
+    {
+        "name": "Shalai, Voice of Plenty",
+        "price_usd": "15.96"
+    },
+    {
+        "name": "Kruphix, God of Horizons",
+        "price_usd": "15.86"
+    },
+    {
+        "name": "Inkmoth Nexus",
+        "price_usd": "15.83"
+    },
+    {
+        "name": "Worldspine Wurm",
+        "price_usd": "15.83"
+    },
+    {
+        "name": "Eldrazi Conscription",
+        "price_usd": "15.80"
+    },
+    {
+        "name": "Beast Whisperer",
+        "price_usd": "15.70"
+    },
+    {
+        "name": "Relentless Dead",
+        "price_usd": "15.70"
+    },
+    {
+        "name": "Unholy Grotto // Unholy Grotto",
+        "price_usd": "15.61"
+    },
+    {
+        "name": "Balthor the Defiled",
+        "price_usd": "15.55"
+    },
+    {
+        "name": "Toothy, Imaginary Friend",
+        "price_usd": "15.50"
+    },
+    {
+        "name": "Vault of Whispers",
+        "price_usd": "15.42"
+    },
+    {
+        "name": "Sheoldred, Whispering One",
+        "price_usd": "15.40"
+    },
+    {
+        "name": "The Meep",
+        "price_usd": "15.38"
+    },
+    {
+        "name": "Godo, Bandit Warlord",
+        "price_usd": "15.35"
+    },
+    {
+        "name": "Shire Terrace",
+        "price_usd": "15.28"
+    },
+    {
+        "name": "Fabricate",
+        "price_usd": "15.18"
+    },
+    {
+        "name": "Spellstutter Sprite",
+        "price_usd": "15.12"
+    },
+    {
+        "name": "Zombie Apocalypse",
+        "price_usd": "15.08"
+    },
+    {
+        "name": "Dregscape Sliver",
+        "price_usd": "14.93"
+    },
+    {
+        "name": "Sliver Hivelord",
+        "price_usd": "14.87"
+    },
+    {
+        "name": "Bearscape",
+        "price_usd": "14.86"
+    },
+    {
+        "name": "Applejack",
+        "price_usd": "14.84"
+    },
+    {
+        "name": "Steely Resolve // Steely Resolve",
+        "price_usd": "14.81"
+    },
+    {
+        "name": "Ravenous Rotbelly",
+        "price_usd": "14.76"
+    },
+    {
+        "name": "Whir of Invention",
+        "price_usd": "14.76"
+    },
+    {
+        "name": "Metallic Mimic",
+        "price_usd": "14.71"
+    },
+    {
+        "name": "Necrogen Mists",
+        "price_usd": "14.60"
+    },
+    {
+        "name": "Utvara Hellkite",
+        "price_usd": "14.56"
+    },
+    {
+        "name": "Death Baron // Death Baron",
+        "price_usd": "14.52"
+    },
+    {
+        "name": "Grave Titan",
+        "price_usd": "14.47"
+    },
+    {
+        "name": "Ashiok, Dream Render",
+        "price_usd": "14.45"
+    },
+    {
+        "name": "Toxin Sliver",
+        "price_usd": "14.45"
+    },
+    {
+        "name": "Freed from the Real",
+        "price_usd": "14.40"
+    },
+    {
+        "name": "Drowned Catacomb",
+        "price_usd": "14.39"
+    },
+    {
+        "name": "Harmonic Sliver",
+        "price_usd": "14.39"
+    },
+    {
+        "name": "Crystalline Sliver",
+        "price_usd": "14.35"
+    },
+    {
+        "name": "Vandalblast",
+        "price_usd": "14.35"
+    },
+    {
+        "name": "Crested Sunmare",
+        "price_usd": "14.31"
+    },
+    {
+        "name": "Azami, Lady of Scrolls",
+        "price_usd": "14.19"
+    },
+    {
+        "name": "Kessig Wolf Run",
+        "price_usd": "14.17"
+    },
+    {
+        "name": "Reki, the History of Kamigawa",
+        "price_usd": "14.12"
+    },
+    {
+        "name": "Approach of the Second Sun",
+        "price_usd": "14.02"
+    },
+    {
+        "name": "Reality Smasher",
+        "price_usd": "14.02"
+    },
+    {
+        "name": "Gandalf, Friend of the Shire",
+        "price_usd": "14.01"
+    },
+    {
+        "name": "Spirebluff Canal",
+        "price_usd": "14.01"
+    },
+    {
+        "name": "Buried Alive",
+        "price_usd": "13.88"
+    },
+    {
+        "name": "Defense of the Heart",
+        "price_usd": "13.86"
+    },
+    {
+        "name": "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge",
+        "price_usd": "13.80"
+    },
+    {
+        "name": "Mind's Dilation",
+        "price_usd": "13.79"
+    },
+    {
+        "name": "Etherium Sculptor",
+        "price_usd": "13.76"
+    },
+    {
+        "name": "Terminate",
+        "price_usd": "13.57"
+    },
+    {
+        "name": "Xantcha, Sleeper Agent",
+        "price_usd": "13.56"
+    },
+    {
+        "name": "Teferi's Puzzle Box",
+        "price_usd": "13.55"
+    },
+    {
+        "name": "Kozilek, the Great Distortion",
+        "price_usd": "13.54"
+    },
+    {
+        "name": "Danitha Capashen, Paragon",
+        "price_usd": "13.53"
+    },
+    {
+        "name": "True Conviction",
+        "price_usd": "13.48"
+    },
+    {
+        "name": "Path to Exile",
+        "price_usd": "13.47"
+    },
+    {
+        "name": "Stonecoil Serpent",
+        "price_usd": "13.44"
+    },
+    {
+        "name": "Grimgrin, Corpse-Born // Grimgrin, Corpse-Born",
+        "price_usd": "13.41"
+    },
+    {
+        "name": "Tuvasa the Sunlit // Tuvasa the Sunlit",
+        "price_usd": "13.33"
+    },
+    {
+        "name": "Spiteful Sliver",
+        "price_usd": "13.31"
+    },
+    {
+        "name": "Ink-Eyes, Servant of Oni",
+        "price_usd": "13.30"
+    },
+    {
+        "name": "Boseiju, Who Shelters All",
+        "price_usd": "13.26"
+    },
+    {
+        "name": "Woodland Cemetery",
+        "price_usd": "13.25"
+    },
+    {
+        "name": "Mathise, Surge Channeler",
+        "price_usd": "13.22"
+    },
+    {
+        "name": "Utopia Sprawl",
+        "price_usd": "13.21"
+    },
+    {
+        "name": "Tamiyo, the Moon Sage",
+        "price_usd": "13.20"
+    },
+    {
+        "name": "Inquisition of Kozilek",
+        "price_usd": "13.18"
+    },
+    {
+        "name": "Risen Reef",
+        "price_usd": "13.15"
+    },
+    {
+        "name": "Hall of the Bandit Lord",
+        "price_usd": "13.14"
+    },
+    {
+        "name": "Malik, Grim Manipulator",
+        "price_usd": "13.14"
+    },
+    {
+        "name": "Dragonlord Kolaghan",
+        "price_usd": "13.11"
+    },
+    {
+        "name": "Brion Stoutarm",
+        "price_usd": "13.08"
+    },
+    {
+        "name": "Platinum Angel",
+        "price_usd": "12.87"
+    },
+    {
+        "name": "Wirewood Symbiote",
+        "price_usd": "12.84"
+    },
+    {
+        "name": "Mosswort Bridge",
+        "price_usd": "12.80"
+    },
+    {
+        "name": "Empress Galina",
+        "price_usd": "12.78"
+    },
+    {
+        "name": "Alchemist's Refuge",
+        "price_usd": "12.75"
+    },
+    {
+        "name": "Ancient Den",
+        "price_usd": "12.69"
+    },
+    {
+        "name": "Sakura-Tribe Elder",
+        "price_usd": "12.68"
+    },
+    {
+        "name": "Ephara, God of the Polis",
+        "price_usd": "12.67"
+    },
+    {
+        "name": "Shadowborn Apostle",
+        "price_usd": "12.63"
+    },
+    {
+        "name": "Sorin, Imperious Bloodlord",
+        "price_usd": "12.62"
+    },
+    {
+        "name": "Olivia Voldaren",
+        "price_usd": "12.61"
+    },
+    {
+        "name": "Lavabelly Sliver",
+        "price_usd": "12.45"
+    },
+    {
+        "name": "Karrthus, Tyrant of Jund",
+        "price_usd": "12.44"
+    },
+    {
+        "name": "Kogla, the Titan Ape",
+        "price_usd": "12.43"
+    },
+    {
+        "name": "Sorin, Grim Nemesis",
+        "price_usd": "12.43"
+    },
+    {
+        "name": "Vengevine",
+        "price_usd": "12.42"
+    },
+    {
+        "name": "Blooming Marsh",
+        "price_usd": "12.40"
+    },
+    {
+        "name": "Brazen Borrower // Petty Theft",
+        "price_usd": "12.39"
+    },
+    {
+        "name": "Dark Depths",
+        "price_usd": "12.39"
+    },
+    {
+        "name": "Heliod, God of the Sun",
+        "price_usd": "12.39"
+    },
+    {
+        "name": "Wrexial, the Risen Deep",
+        "price_usd": "12.39"
+    },
+    {
+        "name": "Second Harvest",
+        "price_usd": "12.34"
+    },
+    {
+        "name": "Alms Collector",
+        "price_usd": "12.30"
+    },
+    {
+        "name": "Skysovereign, Consul Flagship",
+        "price_usd": "12.29"
+    },
+    {
+        "name": "Rapid Hybridization",
+        "price_usd": "12.28"
+    },
+    {
+        "name": "Wellwisher",
+        "price_usd": "12.28"
+    },
+    {
+        "name": "Kardur, Doomscourge // Kardur, Doomscourge",
+        "price_usd": "12.26"
+    },
+    {
+        "name": "The Locust God",
+        "price_usd": "12.08"
+    },
+    {
+        "name": "Master of Waves",
+        "price_usd": "12.01"
+    },
+    {
+        "name": "Rat Colony",
+        "price_usd": "11.88"
+    },
+    {
+        "name": "Ebondeath, Dracolich",
+        "price_usd": "11.75"
+    },
+    {
+        "name": "Joraga Treespeaker",
+        "price_usd": "11.75"
+    },
+    {
+        "name": "Price of Glory",
+        "price_usd": "11.70"
+    },
+    {
+        "name": "Hexdrinker",
+        "price_usd": "11.66"
+    },
+    {
+        "name": "Reckless Fireweaver",
+        "price_usd": "11.65"
+    },
+    {
+        "name": "Akroma, Angel of Wrath",
+        "price_usd": "11.52"
+    },
+    {
+        "name": "Goblin Bombardment",
+        "price_usd": "11.48"
+    },
+    {
+        "name": "Kess, Dissident Mage",
+        "price_usd": "11.36"
+    },
+    {
+        "name": "Mother of Runes",
+        "price_usd": "11.31"
+    },
+    {
+        "name": "Impact Tremors",
+        "price_usd": "11.16"
+    },
+    {
+        "name": "Vanquish the Horde",
+        "price_usd": "11.12"
+    },
+    {
+        "name": "Teferi, Hero of Dominaria",
+        "price_usd": "11.08"
+    },
+    {
+        "name": "Narset, Enlightened Master",
+        "price_usd": "11.03"
+    },
+    {
+        "name": "Oppression",
+        "price_usd": "11.02"
+    },
+    {
+        "name": "Synapse Sliver",
+        "price_usd": "10.96"
+    },
+    {
+        "name": "Duress",
+        "price_usd": "10.87"
+    },
+    {
+        "name": "Reckoner Bankbuster // Reckoner Bankbuster",
+        "price_usd": "10.87"
+    },
+    {
+        "name": "Jurin, Leading the Charge",
+        "price_usd": "10.84"
+    },
+    {
+        "name": "Jet Medallion",
+        "price_usd": "10.83"
+    },
+    {
+        "name": "Norin the Wary // Norin the Wary",
+        "price_usd": "10.83"
+    },
+    {
+        "name": "Spellskite",
+        "price_usd": "10.83"
+    },
+    {
+        "name": "Dragonskull Summit",
+        "price_usd": "10.74"
+    },
+    {
+        "name": "Monastery Swiftspear",
+        "price_usd": "10.72"
+    },
+    {
+        "name": "Gisa's Favorite Shovel",
+        "price_usd": "10.71"
+    },
+    {
+        "name": "Magus of the Wheel",
+        "price_usd": "10.67"
+    },
+    {
+        "name": "Pack Rat",
+        "price_usd": "10.65"
+    },
+    {
+        "name": "All Will Be One",
+        "price_usd": "10.62"
+    },
+    {
+        "name": "Felidar Sovereign",
+        "price_usd": "10.60"
+    },
+    {
+        "name": "Ancient Grudge",
+        "price_usd": "10.58"
+    },
+    {
+        "name": "Simic Ascendancy",
+        "price_usd": "10.57"
+    },
+    {
+        "name": "Stuffy Doll",
+        "price_usd": "10.56"
+    },
+    {
+        "name": "Heartless Hidetsugu",
+        "price_usd": "10.55"
+    },
+    {
+        "name": "Jinnie Fay, Jetmir's Second // Jinnie Fay, Jetmir's Second",
+        "price_usd": "10.55"
+    },
+    {
+        "name": "Mina and Denn, Wildborn",
+        "price_usd": "10.52"
+    },
+    {
+        "name": "Mikaeus, the Unhallowed",
+        "price_usd": "10.51"
+    },
+    {
+        "name": "Chromatic Lantern",
+        "price_usd": "10.50"
+    },
+    {
+        "name": "Knight of the White Orchid",
+        "price_usd": "10.46"
+    },
+    {
+        "name": "Ghalta, Primal Hunger // Ghalta, Primal Hunger",
+        "price_usd": "10.43"
+    },
+    {
+        "name": "Nine Lives",
+        "price_usd": "10.42"
+    },
+    {
+        "name": "Pir, Imaginative Rascal",
+        "price_usd": "10.40"
+    },
+    {
+        "name": "Kroxa, Titan of Death's Hunger",
+        "price_usd": "10.35"
+    },
+    {
+        "name": "Rest in Peace",
+        "price_usd": "10.34"
+    },
+    {
+        "name": "Darksteel Colossus",
+        "price_usd": "10.27"
+    },
+    {
+        "name": "Adrix and Nev, Twincasters // Adrix and Nev, Twincasters",
+        "price_usd": "10.25"
+    },
+    {
+        "name": "Glissa, the Traitor",
+        "price_usd": "10.22"
+    },
+    {
+        "name": "Thran Dynamo",
+        "price_usd": "10.20"
+    },
+    {
+        "name": "Imprisoned in the Moon",
+        "price_usd": "10.18"
+    },
+    {
+        "name": "Liliana, Dreadhorde General",
+        "price_usd": "10.14"
+    },
+    {
+        "name": "Lightning Strike",
+        "price_usd": "10.07"
+    },
+    {
+        "name": "Olivia, Mobilized for War",
+        "price_usd": "10.05"
+    },
+    {
+        "name": "Sunpetal Grove",
+        "price_usd": "9.99"
+    },
+    {
+        "name": "Xorn",
+        "price_usd": "9.82"
+    },
+    {
+        "name": "Syphon Sliver",
+        "price_usd": "9.79"
+    },
+    {
+        "name": "Garruk Wildspeaker",
+        "price_usd": "9.76"
+    },
+    {
+        "name": "Nature's Will",
+        "price_usd": "9.71"
+    },
+    {
+        "name": "Torbran, Thane of Red Fell",
+        "price_usd": "9.61"
+    },
+    {
+        "name": "Animar, Soul of Elements",
+        "price_usd": "9.57"
+    },
+    {
+        "name": "Baral, Chief of Compliance",
+        "price_usd": "9.56"
+    },
+    {
+        "name": "Ohran Frostfang",
+        "price_usd": "9.56"
+    },
+    {
+        "name": "Slimefoot, the Stowaway",
+        "price_usd": "9.56"
+    },
+    {
+        "name": "Primordial Hydra",
+        "price_usd": "9.51"
+    },
+    {
+        "name": "Twilight Prophet",
+        "price_usd": "9.50"
+    },
+    {
+        "name": "Umezawa's Jitte",
+        "price_usd": "9.46"
+    },
+    {
+        "name": "Archivist of Oghma",
+        "price_usd": "9.44"
+    },
+    {
+        "name": "Kalitas, Traitor of Ghet",
+        "price_usd": "9.40"
+    },
+    {
+        "name": "Maze's End",
+        "price_usd": "9.39"
+    },
+    {
+        "name": "Arcbound Ravager",
+        "price_usd": "9.38"
+    },
+    {
+        "name": "Noxious Ghoul // Noxious Ghoul",
+        "price_usd": "9.37"
+    },
+    {
+        "name": "Artifact Mutation",
+        "price_usd": "9.35"
+    },
+    {
+        "name": "Tree of Tales",
+        "price_usd": "9.34"
+    },
+    {
+        "name": "Necrotic Sliver",
+        "price_usd": "9.33"
+    },
+    {
+        "name": "Serra the Benevolent",
+        "price_usd": "9.33"
+    },
+    {
+        "name": "Helix Pinnacle",
+        "price_usd": "9.26"
+    },
+    {
+        "name": "Bow of Nylea",
+        "price_usd": "9.21"
+    },
+    {
+        "name": "Field Marshal",
+        "price_usd": "9.10"
+    },
+    {
+        "name": "Birds of Paradise",
+        "price_usd": "9.07"
+    },
+    {
+        "name": "Loxodon Warhammer",
+        "price_usd": "9.07"
+    },
+    {
+        "name": "Last Chance",
+        "price_usd": "9.04"
+    },
+    {
+        "name": "Saskia the Unyielding",
+        "price_usd": "9.04"
+    },
+    {
+        "name": "Voice of Resurgence",
+        "price_usd": "8.97"
+    },
+    {
+        "name": "Rootbound Crag",
+        "price_usd": "8.93"
+    },
+    {
+        "name": "Goblin Snowman",
+        "price_usd": "8.92"
+    },
+    {
+        "name": "Planar Bridge",
+        "price_usd": "8.90"
+    },
+    {
+        "name": "Repercussion",
+        "price_usd": "8.90"
+    },
+    {
+        "name": "Peek",
+        "price_usd": "8.89"
+    },
+    {
+        "name": "Gavony Township",
+        "price_usd": "8.82"
+    },
+    {
+        "name": "Root Sliver",
+        "price_usd": "8.78"
+    },
+    {
+        "name": "Triskaidekaphile",
+        "price_usd": "8.77"
+    },
+    {
+        "name": "Keranos, God of Storms",
+        "price_usd": "8.76"
+    },
+    {
+        "name": "Krosan Beast",
+        "price_usd": "8.75"
+    },
+    {
+        "name": "Squirrel Mob",
+        "price_usd": "8.70"
+    },
+    {
+        "name": "The Scorpion God",
+        "price_usd": "8.63"
+    },
+    {
+        "name": "Wood Elves",
+        "price_usd": "8.58"
+    },
+    {
+        "name": "Nature's Lore",
+        "price_usd": "8.51"
+    },
+    {
+        "name": "Pharika, God of Affliction",
+        "price_usd": "8.50"
+    },
+    {
+        "name": "Hive Mind",
+        "price_usd": "8.44"
+    },
+    {
+        "name": "Seshiro the Anointed",
+        "price_usd": "8.38"
+    },
+    {
+        "name": "Jin-Gitaxias, Core Augur",
+        "price_usd": "8.27"
+    },
+    {
+        "name": "Chatter of the Squirrel",
+        "price_usd": "8.19"
+    },
+    {
+        "name": "Search for Azcanta // Azcanta, the Sunken Ruin",
+        "price_usd": "8.14"
+    },
+    {
+        "name": "Glacial Fortress",
+        "price_usd": "8.10"
+    },
+    {
+        "name": "Blinding Angel",
+        "price_usd": "8.08"
+    },
+    {
+        "name": "Wrath of God",
+        "price_usd": "8.07"
+    },
+    {
+        "name": "Breya, Etherium Shaper",
+        "price_usd": "8.06"
+    },
+    {
+        "name": "Horned Sliver",
+        "price_usd": "8.03"
+    },
+    {
+        "name": "Collective Voyage",
+        "price_usd": "7.96"
+    },
+    {
+        "name": "Gisela, Blade of Goldnight",
+        "price_usd": "7.84"
+    },
+    {
+        "name": "Intruder Alarm",
+        "price_usd": "7.83"
+    },
+    {
+        "name": "Mesa Enchantress",
+        "price_usd": "7.82"
+    },
+    {
+        "name": "Slip On the Ring",
+        "price_usd": "7.81"
+    },
+    {
+        "name": "Maarika, Brutal Gladiator",
+        "price_usd": "7.80"
+    },
+    {
+        "name": "Phyrexian Unlife",
+        "price_usd": "7.77"
+    },
+    {
+        "name": "Eladamri's Vineyard",
+        "price_usd": "7.72"
+    },
+    {
+        "name": "Fleshbag Marauder",
+        "price_usd": "7.68"
+    },
+    {
+        "name": "Botanical Sanctum",
+        "price_usd": "7.65"
+    },
+    {
+        "name": "Battlefield Forge",
+        "price_usd": "7.63"
+    },
+    {
+        "name": "Mirror of Galadriel",
+        "price_usd": "7.62"
+    },
+    {
+        "name": "Giant Adephage",
+        "price_usd": "7.61"
+    },
+    {
+        "name": "Iymrith, Desert Doom",
+        "price_usd": "7.57"
+    },
+    {
+        "name": "Estrid's Invocation // Estrid's Invocation",
+        "price_usd": "7.56"
+    },
+    {
+        "name": "Tibalt, Rakish Instigator",
+        "price_usd": "7.52"
+    },
+    {
+        "name": "Death's Shadow",
+        "price_usd": "7.51"
+    },
+    {
+        "name": "Sram, Senior Edificer",
+        "price_usd": "7.49"
+    },
+    {
+        "name": "Yidris, Maelstrom Wielder",
+        "price_usd": "7.43"
+    },
+    {
+        "name": "Spore Frog",
+        "price_usd": "7.42"
+    },
+    {
+        "name": "Inferno of the Star Mounts",
+        "price_usd": "7.40"
+    },
+    {
+        "name": "Plague Engineer",
+        "price_usd": "7.39"
+    },
+    {
+        "name": "Storm Crow",
+        "price_usd": "7.38"
+    },
+    {
+        "name": "Vivien, Champion of the Wilds",
+        "price_usd": "7.37"
+    },
+    {
+        "name": "Spinerock Knoll",
+        "price_usd": "7.36"
+    },
+    {
+        "name": "Nissa, Who Shakes the World",
+        "price_usd": "7.34"
+    },
+    {
+        "name": "Gr\u00edma Wormtongue",
+        "price_usd": "7.29"
+    },
+    {
+        "name": "Goblin Rabblemaster",
+        "price_usd": "7.27"
+    },
+    {
+        "name": "Rose Noble",
+        "price_usd": "7.25"
+    },
+    {
+        "name": "Cecily, Haunted Mage",
+        "price_usd": "7.24"
+    },
+    {
+        "name": "Concealed Courtyard",
+        "price_usd": "7.22"
+    },
+    {
+        "name": "Thought-Knot Seer",
+        "price_usd": "7.17"
+    },
+    {
+        "name": "Krark, the Thumbless // Krark, the Thumbless",
+        "price_usd": "7.13"
+    },
+    {
+        "name": "Ajani, Mentor of Heroes",
+        "price_usd": "7.12"
+    },
+    {
+        "name": "Diregraf Colossus",
+        "price_usd": "7.09"
+    },
+    {
+        "name": "Ash Barrens",
+        "price_usd": "7.02"
+    },
+    {
+        "name": "Marchesa, the Black Rose",
+        "price_usd": "7.00"
+    },
+    {
+        "name": "Nemesis of Reason",
+        "price_usd": "7.00"
+    },
+    {
+        "name": "Icingdeath, Frost Tyrant",
+        "price_usd": "6.98"
+    },
+    {
+        "name": "Sol Ring",
+        "price_usd": "6.95"
+    },
+    {
+        "name": "The Howling Abomination",
+        "price_usd": "6.91"
+    },
+    {
+        "name": "Bruna, Light of Alabaster",
+        "price_usd": "6.90"
+    },
+    {
+        "name": "Adaptive Automaton",
+        "price_usd": "6.84"
+    },
+    {
+        "name": "Kira, Great Glass-Spinner",
+        "price_usd": "6.80"
+    },
+    {
+        "name": "Nicol Bolas, Dragon-God",
+        "price_usd": "6.79"
+    },
+    {
+        "name": "Enchanted Evening",
+        "price_usd": "6.78"
+    },
+    {
+        "name": "Magma Sliver",
+        "price_usd": "6.78"
+    },
+    {
+        "name": "Slayers' Stronghold",
+        "price_usd": "6.78"
+    },
+    {
+        "name": "Essence Sliver",
+        "price_usd": "6.72"
+    },
+    {
+        "name": "Master of the Wild Hunt",
+        "price_usd": "6.68"
+    },
+    {
+        "name": "Plague Sliver",
+        "price_usd": "6.64"
+    },
+    {
+        "name": "Squirrel Wrangler",
+        "price_usd": "6.64"
+    },
+    {
+        "name": "Oona, Queen of the Fae",
+        "price_usd": "6.59"
+    },
+    {
+        "name": "Door to Nothingness",
+        "price_usd": "6.54"
+    },
+    {
+        "name": "Merciless Executioner",
+        "price_usd": "6.54"
+    },
+    {
+        "name": "Cultivate",
+        "price_usd": "6.53"
+    },
+    {
+        "name": "Contagion Engine",
+        "price_usd": "6.52"
+    },
+    {
+        "name": "Sarkhan Vol",
+        "price_usd": "6.52"
+    },
+    {
+        "name": "Toshiro Umezawa",
+        "price_usd": "6.52"
+    },
+    {
+        "name": "Stitch in Time // Stitch in Time",
+        "price_usd": "6.48"
+    },
+    {
+        "name": "Carnage Tyrant",
+        "price_usd": "6.42"
+    },
+    {
+        "name": "Angel of the Ruins",
+        "price_usd": "6.37"
+    },
+    {
+        "name": "Blighted Agent",
+        "price_usd": "6.37"
+    },
+    {
+        "name": "Generous Patron",
+        "price_usd": "6.35"
+    },
+    {
+        "name": "Arcanis the Omnipotent",
+        "price_usd": "6.33"
+    },
+    {
+        "name": "Inspiring Overseer",
+        "price_usd": "6.33"
+    },
+    {
+        "name": "Prodigal Sorcerer",
+        "price_usd": "6.32"
+    },
+    {
+        "name": "Prismatic Omen",
+        "price_usd": "6.28"
+    },
+    {
+        "name": "Garruk, Caller of Beasts",
+        "price_usd": "6.23"
+    },
+    {
+        "name": "Sire of Insanity",
+        "price_usd": "6.23"
+    },
+    {
+        "name": "Vizier of the Menagerie",
+        "price_usd": "6.22"
+    },
+    {
+        "name": "Rampant Growth",
+        "price_usd": "6.21"
+    },
+    {
+        "name": "Yisan, the Wanderer Bard",
+        "price_usd": "6.20"
+    },
+    {
+        "name": "Reflector Mage",
+        "price_usd": "6.19"
+    },
+    {
+        "name": "Explore",
+        "price_usd": "6.17"
+    },
+    {
+        "name": "Zaxara, the Exemplary",
+        "price_usd": "6.12"
+    },
+    {
+        "name": "Ertai, the Corrupted",
+        "price_usd": "6.11"
+    },
+    {
+        "name": "Jaya's Immolating Inferno",
+        "price_usd": "6.10"
+    },
+    {
+        "name": "Saheeli, Sublime Artificer",
+        "price_usd": "6.06"
+    },
+    {
+        "name": "Varragoth, Bloodsky Sire",
+        "price_usd": "6.02"
+    },
+    {
+        "name": "Restoration Angel",
+        "price_usd": "6.01"
+    },
+    {
+        "name": "Arden Angel",
+        "price_usd": "5.99"
+    },
+    {
+        "name": "The Wanderer",
+        "price_usd": "5.97"
+    },
+    {
+        "name": "Collective Brutality",
+        "price_usd": "5.96"
+    },
+    {
+        "name": "Shaman of the Pack",
+        "price_usd": "5.93"
+    },
+    {
+        "name": "Windbrisk Heights",
+        "price_usd": "5.93"
+    },
+    {
+        "name": "Well of Lost Dreams",
+        "price_usd": "5.92"
+    },
+    {
+        "name": "Predatory Sliver",
+        "price_usd": "5.90"
+    },
+    {
+        "name": "Yeva, Nature's Herald",
+        "price_usd": "5.90"
+    },
+    {
+        "name": "Benevolent Hydra",
+        "price_usd": "5.87"
+    },
+    {
+        "name": "Lathliss, Dragon Queen",
+        "price_usd": "5.87"
+    },
+    {
+        "name": "Druid of Purification",
+        "price_usd": "5.84"
+    },
+    {
+        "name": "Ice-Fang Coatl",
+        "price_usd": "5.83"
+    },
+    {
+        "name": "Magda, Brazen Outlaw",
+        "price_usd": "5.82"
+    },
+    {
+        "name": "Reaper King",
+        "price_usd": "5.78"
+    },
+    {
+        "name": "Skyline Despot",
+        "price_usd": "5.74"
+    },
+    {
+        "name": "Gargos, Vicious Watcher",
+        "price_usd": "5.72"
+    },
+    {
+        "name": "Vikya, Scorching Stalwart",
+        "price_usd": "5.69"
+    },
+    {
+        "name": "Dig Through Time",
+        "price_usd": "5.55"
+    },
+    {
+        "name": "Ugin, the Ineffable",
+        "price_usd": "5.54"
+    },
+    {
+        "name": "Dack Fayden",
+        "price_usd": "5.52"
+    },
+    {
+        "name": "Rewind",
+        "price_usd": "5.50"
+    },
+    {
+        "name": "Greed",
+        "price_usd": "5.49"
+    },
+    {
+        "name": "Soul-Scar Mage",
+        "price_usd": "5.49"
+    },
+    {
+        "name": "Kezzerdrix",
+        "price_usd": "5.47"
+    },
+    {
+        "name": "Elspeth, Knight-Errant",
+        "price_usd": "5.35"
+    },
+    {
+        "name": "Peacewalker Colossus // Peacewalker Colossus",
+        "price_usd": "5.33"
+    },
+    {
+        "name": "Howling Mine",
+        "price_usd": "5.32"
+    },
+    {
+        "name": "Muddle the Mixture",
+        "price_usd": "5.29"
+    },
+    {
+        "name": "Omnath, Locus of Creation",
+        "price_usd": "5.28"
+    },
+    {
+        "name": "Coveted Jewel",
+        "price_usd": "5.25"
+    },
+    {
+        "name": "Savor the Moment",
+        "price_usd": "5.24"
+    },
+    {
+        "name": "Deepglow Skate",
+        "price_usd": "5.23"
+    },
+    {
+        "name": "Mechtitan Core // Mechtitan Core",
+        "price_usd": "5.23"
+    },
+    {
+        "name": "K'rrik, Son of Yawgmoth",
+        "price_usd": "5.22"
+    },
+    {
+        "name": "Mountain Goat",
+        "price_usd": "5.21"
+    },
+    {
+        "name": "Verduran Enchantress",
+        "price_usd": "5.13"
+    },
+    {
+        "name": "Matter Reshaper",
+        "price_usd": "5.10"
+    },
+    {
+        "name": "Wernog, Rider's Chaplain",
+        "price_usd": "5.08"
+    },
+    {
+        "name": "Crash Through",
+        "price_usd": "5.05"
+    },
+    {
+        "name": "Avabruck Caretaker // Hollowhenge Huntmaster",
+        "price_usd": "5.01"
+    },
+    {
+        "name": "Curiosity",
+        "price_usd": "5.00"
+    },
+    {
+        "name": "Retreat to Coralhelm",
+        "price_usd": "4.98"
+    },
+    {
+        "name": "Thalia, Guardian of Thraben",
+        "price_usd": "4.93"
+    },
+    {
+        "name": "Fblthp, the Lost",
+        "price_usd": "4.89"
+    },
+    {
+        "name": "Jaya Ballard",
+        "price_usd": "4.89"
+    },
+    {
+        "name": "Collected Company",
+        "price_usd": "4.88"
+    },
+    {
+        "name": "Othelm, Sigardian Outcast",
+        "price_usd": "4.87"
+    },
+    {
+        "name": "Wheel of Sun and Moon",
+        "price_usd": "4.81"
+    },
+    {
+        "name": "By Force",
+        "price_usd": "4.80"
+    },
+    {
+        "name": "Hydroid Krasis",
+        "price_usd": "4.79"
+    },
+    {
+        "name": "Patron Wizard",
+        "price_usd": "4.79"
+    },
+    {
+        "name": "Fractured Identity",
+        "price_usd": "4.77"
+    },
+    {
+        "name": "Lys Alana Huntmaster",
+        "price_usd": "4.76"
+    },
+    {
+        "name": "Phyrexian Reclamation",
+        "price_usd": "4.75"
+    },
+    {
+        "name": "Orvar, the All-Form",
+        "price_usd": "4.74"
+    },
+    {
+        "name": "Unnatural Growth",
+        "price_usd": "4.71"
+    },
+    {
+        "name": "Diffusion Sliver",
+        "price_usd": "4.69"
+    },
+    {
+        "name": "Koth of the Hammer",
+        "price_usd": "4.65"
+    },
+    {
+        "name": "Future Sight",
+        "price_usd": "4.64"
+    },
+    {
+        "name": "Ghost Quarter",
+        "price_usd": "4.63"
+    },
+    {
+        "name": "Pilgrim's Eye",
+        "price_usd": "4.63"
+    },
+    {
+        "name": "Hibernation Sliver",
+        "price_usd": "4.62"
+    },
+    {
+        "name": "Estrid, the Masked // Estrid, the Masked",
+        "price_usd": "4.61"
+    },
+    {
+        "name": "Immerwolf",
+        "price_usd": "4.61"
+    },
+    {
+        "name": "Frost Titan",
+        "price_usd": "4.59"
+    },
+    {
+        "name": "Greasefang, Okiba Boss",
+        "price_usd": "4.59"
+    },
+    {
+        "name": "Pulmonic Sliver",
+        "price_usd": "4.57"
+    },
+    {
+        "name": "Eidolon of the Great Revel",
+        "price_usd": "4.53"
+    },
+    {
+        "name": "Fact or Fiction",
+        "price_usd": "4.53"
+    },
+    {
+        "name": "Counterflux",
+        "price_usd": "4.50"
+    },
+    {
+        "name": "Vaevictis Asmadi",
+        "price_usd": "4.49"
+    },
+    {
+        "name": "Bjorna, Nightfall Alchemist",
+        "price_usd": "4.47"
+    },
+    {
+        "name": "Delver of Secrets // Insectile Aberration",
+        "price_usd": "4.43"
+    },
+    {
+        "name": "Baldin, Century Herdmaster",
+        "price_usd": "4.35"
+    },
+    {
+        "name": "Manaweft Sliver",
+        "price_usd": "4.33"
+    },
+    {
+        "name": "Commander's Sphere",
+        "price_usd": "4.30"
+    },
+    {
+        "name": "Twinflame",
+        "price_usd": "4.29"
+    },
+    {
+        "name": "Gregor, Shrewd Magistrate",
+        "price_usd": "4.26"
+    },
+    {
+        "name": "Opt",
+        "price_usd": "4.23"
+    },
+    {
+        "name": "Cloudshredder Sliver",
+        "price_usd": "4.19"
+    },
+    {
+        "name": "Progenitus",
+        "price_usd": "4.18"
+    },
+    {
+        "name": "Parhelion II // Parhelion II",
+        "price_usd": "4.13"
+    },
+    {
+        "name": "Ajani Steadfast",
+        "price_usd": "4.11"
+    },
+    {
+        "name": "Gilded Lotus",
+        "price_usd": "4.11"
+    },
+    {
+        "name": "Glistener Elf",
+        "price_usd": "4.11"
+    },
+    {
+        "name": "Compost",
+        "price_usd": "4.10"
+    },
+    {
+        "name": "Tamiyo, Field Researcher",
+        "price_usd": "4.10"
+    },
+    {
+        "name": "Inferno Titan",
+        "price_usd": "4.09"
+    },
+    {
+        "name": "Ruhan of the Fomori",
+        "price_usd": "3.98"
+    },
+    {
+        "name": "Kaya, Ghost Assassin",
+        "price_usd": "3.97"
+    },
+    {
+        "name": "Spell Queller",
+        "price_usd": "3.96"
+    },
+    {
+        "name": "Sublime Archangel",
+        "price_usd": "3.95"
+    },
+    {
+        "name": "Hansk, Slayer Zealot",
+        "price_usd": "3.94"
+    },
+    {
+        "name": "Pyrite Spellbomb",
+        "price_usd": "3.90"
+    },
+    {
+        "name": "Tezzeret, Agent of Bolas",
+        "price_usd": "3.90"
+    },
+    {
+        "name": "Balance",
+        "price_usd": "3.88"
+    },
+    {
+        "name": "Tireless Tracker",
+        "price_usd": "3.88"
+    },
+    {
+        "name": "Sculpting Steel",
+        "price_usd": "3.80"
+    },
+    {
+        "name": "Sower of Temptation",
+        "price_usd": "3.77"
+    },
+    {
+        "name": "Heartbeat of Spring",
+        "price_usd": "3.69"
+    },
+    {
+        "name": "Sorcerous Spyglass",
+        "price_usd": "3.69"
+    },
+    {
+        "name": "Ob Nixilis, the Hate-Twisted",
+        "price_usd": "3.68"
+    },
+    {
+        "name": "Angrath, the Flame-Chained",
+        "price_usd": "3.63"
+    },
+    {
+        "name": "Aisha of Sparks and Smoke",
+        "price_usd": "3.61"
+    },
+    {
+        "name": "Sophina, Spearsage Deserter",
+        "price_usd": "3.54"
+    },
+    {
+        "name": "Hokori, Dust Drinker",
+        "price_usd": "3.53"
+    },
+    {
+        "name": "Nephalia Drownyard",
+        "price_usd": "3.49"
+    },
+    {
+        "name": "Battle of Wits",
+        "price_usd": "3.44"
+    },
+    {
+        "name": "Terror // Terror",
+        "price_usd": "3.40"
+    },
+    {
+        "name": "Unmask",
+        "price_usd": "3.40"
+    },
+    {
+        "name": "Might Sliver",
+        "price_usd": "3.38"
+    },
+    {
+        "name": "Elmar, Ulvenwald Informant",
+        "price_usd": "3.37"
+    },
+    {
+        "name": "Chromium",
+        "price_usd": "3.33"
+    },
+    {
+        "name": "Palladia-Mors",
+        "price_usd": "3.33"
+    },
+    {
+        "name": "Genesis Chamber",
+        "price_usd": "3.31"
+    },
+    {
+        "name": "Path of Ancestry",
+        "price_usd": "3.28"
+    },
+    {
+        "name": "Shadow Sliver",
+        "price_usd": "3.27"
+    },
+    {
+        "name": "Nomad Outpost",
+        "price_usd": "3.26"
+    },
+    {
+        "name": "Masterwork of Ingenuity",
+        "price_usd": "3.25"
+    },
+    {
+        "name": "Havengul Laboratory // Havengul Mystery",
+        "price_usd": "3.24"
+    },
+    {
+        "name": "Huntmaster of the Fells // Ravager of the Fells",
+        "price_usd": "3.20"
+    },
+    {
+        "name": "Aether Gust",
+        "price_usd": "3.17"
+    },
+    {
+        "name": "Savra, Queen of the Golgari",
+        "price_usd": "3.14"
+    },
+    {
+        "name": "Dawnbreak Reclaimer",
+        "price_usd": "3.10"
+    },
+    {
+        "name": "Llawan, Cephalid Empress",
+        "price_usd": "3.10"
+    },
+    {
+        "name": "Enduring Ideal",
+        "price_usd": "3.09"
+    },
+    {
+        "name": "Immard, the Stormcleaver",
+        "price_usd": "3.04"
+    },
+    {
+        "name": "Terramorphic Expanse",
+        "price_usd": "3.01"
+    },
+    {
+        "name": "Dance of Many",
+        "price_usd": "2.98"
+    },
+    {
+        "name": "Flamekin Harbinger",
+        "price_usd": "2.97"
+    },
+    {
+        "name": "Ob Nixilis Reignited",
+        "price_usd": "2.96"
+    },
+    {
+        "name": "Grim Backwoods",
+        "price_usd": "2.94"
+    },
+    {
+        "name": "Teyo, the Shieldmage",
+        "price_usd": "2.94"
+    },
+    {
+        "name": "Sunblast Angel",
+        "price_usd": "2.92"
+    },
+    {
+        "name": "Sorin, Vengeful Bloodlord",
+        "price_usd": "2.91"
+    },
+    {
+        "name": "Unbreakable Formation",
+        "price_usd": "2.86"
+    },
+    {
+        "name": "Leeching Sliver",
+        "price_usd": "2.85"
+    },
+    {
+        "name": "Reya Dawnbringer",
+        "price_usd": "2.85"
+    },
+    {
+        "name": "Sanctum Prelate",
+        "price_usd": "2.83"
+    },
+    {
+        "name": "Sarkhan the Masterless",
+        "price_usd": "2.83"
+    },
+    {
+        "name": "Ivy Lane Denizen",
+        "price_usd": "2.81"
+    },
+    {
+        "name": "Stensia Bloodhall",
+        "price_usd": "2.74"
+    },
+    {
+        "name": "Batterskull",
+        "price_usd": "2.72"
+    },
+    {
+        "name": "Mudhole",
+        "price_usd": "2.72"
+    },
+    {
+        "name": "Forgotten Ancient",
+        "price_usd": "2.71"
+    },
+    {
+        "name": "Glissa Sunseeker",
+        "price_usd": "2.66"
+    },
+    {
+        "name": "Leshrac's Sigil",
+        "price_usd": "2.63"
+    },
+    {
+        "name": "Shelldock Isle",
+        "price_usd": "2.63"
+    },
+    {
+        "name": "Thorncaster Sliver",
+        "price_usd": "2.63"
+    },
+    {
+        "name": "Fracturing Gust",
+        "price_usd": "2.62"
+    },
+    {
+        "name": "Frenetic Sliver",
+        "price_usd": "2.61"
+    },
+    {
+        "name": "Megantic Sliver",
+        "price_usd": "2.61"
+    },
+    {
+        "name": "Goblin Settler",
+        "price_usd": "2.60"
+    },
+    {
+        "name": "Hargilde, Kindly Runechanter",
+        "price_usd": "2.59"
+    },
+    {
+        "name": "Arcades Sabboth",
+        "price_usd": "2.54"
+    },
+    {
+        "name": "Sarkhan, Dragonsoul",
+        "price_usd": "2.54"
+    },
+    {
+        "name": "Evolving Wilds",
+        "price_usd": "2.53"
+    },
+    {
+        "name": "Muscle Sliver",
+        "price_usd": "2.53"
+    },
+    {
+        "name": "Breathkeeper Seraph",
+        "price_usd": "2.52"
+    },
+    {
+        "name": "Selfless Savior",
+        "price_usd": "2.50"
+    },
+    {
+        "name": "Hero's Downfall",
+        "price_usd": "2.49"
+    },
+    {
+        "name": "Valkyrie Harbinger",
+        "price_usd": "2.47"
+    },
+    {
+        "name": "Tadeas, Juniper Ascendant",
+        "price_usd": "2.46"
+    },
+    {
+        "name": "Ral, Storm Conduit",
+        "price_usd": "2.45"
+    },
+    {
+        "name": "Two-Headed Sliver",
+        "price_usd": "2.44"
+    },
+    {
+        "name": "Homing Sliver",
+        "price_usd": "2.40"
+    },
+    {
+        "name": "Howl of the Night Pack",
+        "price_usd": "2.39"
+    },
+    {
+        "name": "Knight Exemplar",
+        "price_usd": "2.39"
+    },
+    {
+        "name": "Desolate Lighthouse",
+        "price_usd": "2.36"
+    },
+    {
+        "name": "Sedge Sliver",
+        "price_usd": "2.30"
+    },
+    {
+        "name": "Serum Visions",
+        "price_usd": "2.30"
+    },
+    {
+        "name": "Telekinetic Sliver",
+        "price_usd": "2.30"
+    },
+    {
+        "name": "Chandra, Fire Artisan",
+        "price_usd": "2.29"
+    },
+    {
+        "name": "Jiang Yanggu, Wildcrafter",
+        "price_usd": "2.29"
+    },
+    {
+        "name": "Shadow of Doubt",
+        "price_usd": "2.29"
+    },
+    {
+        "name": "Dakkon Blackblade",
+        "price_usd": "2.25"
+    },
+    {
+        "name": "Ward Sliver",
+        "price_usd": "2.25"
+    },
+    {
+        "name": "Drana, the Last Bloodchief",
+        "price_usd": "2.20"
+    },
+    {
+        "name": "Yargle, Glutton of Urborg // Yargle, Glutton of Urborg",
+        "price_usd": "2.20"
+    },
+    {
+        "name": "Krosan Grip",
+        "price_usd": "2.18"
+    },
+    {
+        "name": "Brood Sliver",
+        "price_usd": "2.11"
+    },
+    {
+        "name": "Elvish Vanguard",
+        "price_usd": "2.09"
+    },
+    {
+        "name": "Opaline Sliver",
+        "price_usd": "2.07"
+    },
+    {
+        "name": "Enkira, Hostile Scavenger",
+        "price_usd": "2.06"
+    },
+    {
+        "name": "Happily Ever After",
+        "price_usd": "2.04"
+    },
+    {
+        "name": "Basal Sliver",
+        "price_usd": "2.03"
+    },
+    {
+        "name": "Brainstorm",
+        "price_usd": "2.01"
+    },
+    {
+        "name": "Codex Shredder",
+        "price_usd": "1.96"
+    },
+    {
+        "name": "Regrowth",
+        "price_usd": "1.96"
+    },
+    {
+        "name": "Psionic Sliver",
+        "price_usd": "1.89"
+    },
+    {
+        "name": "Kasmina, Enigmatic Mentor",
+        "price_usd": "1.86"
+    },
+    {
+        "name": "Urabrask the Hidden",
+        "price_usd": "1.86"
+    },
+    {
+        "name": "Chaos Warp",
+        "price_usd": "1.85"
+    },
+    {
+        "name": "Gideon Blackblade",
+        "price_usd": "1.81"
+    },
+    {
+        "name": "Timberwatch Elf",
+        "price_usd": "1.79"
+    },
+    {
+        "name": "Poison-Tip Archer",
+        "price_usd": "1.69"
+    },
+    {
+        "name": "Gaea's Blessing",
+        "price_usd": "1.65"
+    },
+    {
+        "name": "Anger of the Gods",
+        "price_usd": "1.62"
+    },
+    {
+        "name": "Demonlord Belzenlok",
+        "price_usd": "1.59"
+    },
+    {
+        "name": "Ajani, the Greathearted",
+        "price_usd": "1.57"
+    },
+    {
+        "name": "Akroma, Angel of Fury",
+        "price_usd": "1.57"
+    },
+    {
+        "name": "Domri, Anarch of Bolas",
+        "price_usd": "1.56"
+    },
+    {
+        "name": "Nettle Sentinel",
+        "price_usd": "1.56"
+    },
+    {
+        "name": "Mulldrifter",
+        "price_usd": "1.55"
+    },
+    {
+        "name": "Cleansing Nova",
+        "price_usd": "1.52"
+    },
+    {
+        "name": "Metalwork Colossus",
+        "price_usd": "1.49"
+    },
+    {
+        "name": "Alesha, Who Smiles at Death",
+        "price_usd": "1.47"
+    },
+    {
+        "name": "Moorland Haunt",
+        "price_usd": "1.47"
+    },
+    {
+        "name": "Winged Sliver",
+        "price_usd": "1.40"
+    },
+    {
+        "name": "Dovin, Hand of Control",
+        "price_usd": "1.36"
+    },
+    {
+        "name": "Tamiyo, Collector of Tales",
+        "price_usd": "1.35"
+    },
+    {
+        "name": "Bone Splinters",
+        "price_usd": "1.29"
+    },
+    {
+        "name": "Darksteel Ingot",
+        "price_usd": "1.24"
+    },
+    {
+        "name": "Domri Rade",
+        "price_usd": "1.17"
+    },
+    {
+        "name": "Jaspera Sentinel",
+        "price_usd": "1.17"
+    },
+    {
+        "name": "Prosperous Innkeeper",
+        "price_usd": "1.17"
+    },
+    {
+        "name": "Depala, Pilot Exemplar",
+        "price_usd": "1.10"
+    },
+    {
+        "name": "Howltooth Hollow",
+        "price_usd": "1.09"
+    },
+    {
+        "name": "Paradise Druid",
+        "price_usd": "1.09"
+    },
+    {
+        "name": "Angel of Finality",
+        "price_usd": "1.08"
+    },
+    {
+        "name": "Belligerent Sliver",
+        "price_usd": "1.07"
+    },
+    {
+        "name": "Champion of the Perished",
+        "price_usd": "1.07"
+    },
+    {
+        "name": "Elvish Visionary",
+        "price_usd": "1.05"
+    },
+    {
+        "name": "Thragtusk",
+        "price_usd": "1.02"
+    },
+    {
+        "name": "Fury Sliver",
+        "price_usd": "1.01"
+    },
+    {
+        "name": "Nahiri, Storm of Stone",
+        "price_usd": "1.01"
+    },
+    {
+        "name": "Lavinia, Azorius Renegade",
+        "price_usd": "0.98"
+    },
+    {
+        "name": "Tempered Sliver",
+        "price_usd": "0.95"
+    },
+    {
+        "name": "Screeching Sliver",
+        "price_usd": "0.94"
+    },
+    {
+        "name": "Serra Angel",
+        "price_usd": "0.91"
+    },
+    {
+        "name": "Triumphant Reckoning",
+        "price_usd": "0.91"
+    },
+    {
+        "name": "Fierce Empath",
+        "price_usd": "0.89"
+    },
+    {
+        "name": "Sylvan Ranger",
+        "price_usd": "0.88"
+    },
+    {
+        "name": "Nullmage Shepherd",
+        "price_usd": "0.83"
+    },
+    {
+        "name": "Scuttling Sliver",
+        "price_usd": "0.81"
+    },
+    {
+        "name": "Jaya, Venerated Firemage",
+        "price_usd": "0.79"
+    },
+    {
+        "name": "Kothophed, Soul Hoarder",
+        "price_usd": "0.78"
+    },
+    {
+        "name": "Maro",
+        "price_usd": "0.78"
+    },
+    {
+        "name": "Kaya, Bane of the Dead",
+        "price_usd": "0.71"
+    },
+    {
+        "name": "Skemfar Shadowsage",
+        "price_usd": "0.71"
+    },
+    {
+        "name": "Sidewinder Sliver",
+        "price_usd": "0.69"
+    },
+    {
+        "name": "Questing Phelddagrif",
+        "price_usd": "0.68"
+    },
+    {
+        "name": "Vraska, Swarm's Eminence",
+        "price_usd": "0.66"
+    },
+    {
+        "name": "Mesmeric Sliver",
+        "price_usd": "0.65"
+    },
+    {
+        "name": "Meandering Towershell",
+        "price_usd": "0.64"
+    },
+    {
+        "name": "Pollenbright Druid",
+        "price_usd": "0.63"
+    },
+    {
+        "name": "Farhaven Elf",
+        "price_usd": "0.61"
+    },
+    {
+        "name": "Samut, Tyrant Smasher",
+        "price_usd": "0.59"
+    },
+    {
+        "name": "Angrath, Captain of Chaos",
+        "price_usd": "0.57"
+    },
+    {
+        "name": "Huatli, the Sun's Heart",
+        "price_usd": "0.56"
+    },
+    {
+        "name": "Frilled Mystic",
+        "price_usd": "0.50"
+    },
+    {
+        "name": "Llanowar Visionary",
+        "price_usd": "0.42"
+    },
+    {
+        "name": "Reclamation Sage",
+        "price_usd": "0.42"
+    },
+    {
+        "name": "Viridian Shaman",
+        "price_usd": "0.37"
+    },
+    {
+        "name": "Arlinn, Voice of the Pack",
+        "price_usd": "0.34"
+    },
+    {
+        "name": "Diregraf Captain",
+        "price_usd": "0.34"
+    }
+]

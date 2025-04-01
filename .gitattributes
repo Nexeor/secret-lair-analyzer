@@ -1,0 +1,2 @@
+cardFile.json filter=lfs diff=lfs merge=lfs -text
+cardFileFmt.json filter=lfs diff=lfs merge=lfs -text
