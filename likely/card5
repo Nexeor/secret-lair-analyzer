@@ -1,0 +1,353 @@
+{
+    "num_matches": 87,
+    "likely_cards": [
+        {
+            "name": "Counterflux",
+            "scryfall_uri": "https://scryfall.com/card/c15/214/counterflux?utm_source=api"
+        },
+        {
+            "name": "Glimmervoid",
+            "scryfall_uri": "https://scryfall.com/card/2xm/319/glimmervoid?utm_source=api"
+        },
+        {
+            "name": "Metalworker",
+            "scryfall_uri": "https://scryfall.com/card/uds/135/metalworker?utm_source=api"
+        },
+        {
+            "name": "Willbreaker",
+            "scryfall_uri": "https://scryfall.com/card/ori/84/willbreaker?utm_source=api"
+        },
+        {
+            "name": "Cindervines",
+            "scryfall_uri": "https://scryfall.com/card/rvr/171/cindervines?utm_source=api"
+        },
+        {
+            "name": "Ringwraiths",
+            "scryfall_uri": "https://scryfall.com/card/ltr/284/ringwraiths?utm_source=api"
+        },
+        {
+            "name": "Guiltfeeder",
+            "scryfall_uri": "https://scryfall.com/card/clb/756/guiltfeeder?utm_source=api"
+        },
+        {
+            "name": "Pyrokinesis",
+            "scryfall_uri": "https://scryfall.com/card/ema/143/pyrokinesis?utm_source=api"
+        },
+        {
+            "name": "Fatespinner",
+            "scryfall_uri": "https://scryfall.com/card/mrd/36/fatespinner?utm_source=api"
+        },
+        {
+            "name": "Capricopian",
+            "scryfall_uri": "https://scryfall.com/card/c20/58/capricopian?utm_source=api"
+        },
+        {
+            "name": "Celebr-8000",
+            "scryfall_uri": "https://scryfall.com/card/unf/185/celebr-8000?utm_source=api"
+        },
+        {
+            "name": "Pendelhaven",
+            "scryfall_uri": "https://scryfall.com/card/a25/244/pendelhaven?utm_source=api"
+        },
+        {
+            "name": "Worldslayer",
+            "scryfall_uri": "https://scryfall.com/card/m12/222/worldslayer?utm_source=api"
+        },
+        {
+            "name": "Reinterpret",
+            "scryfall_uri": "https://scryfall.com/card/c21/73/reinterpret?utm_source=api"
+        },
+        {
+            "name": "Flickerform",
+            "scryfall_uri": "https://scryfall.com/card/cma/11/flickerform?utm_source=api"
+        },
+        {
+            "name": "Murmuration",
+            "scryfall_uri": "https://scryfall.com/card/blc/10/murmuration?utm_source=api"
+        },
+        {
+            "name": "Moggcatcher",
+            "scryfall_uri": "https://scryfall.com/card/nem/96/moggcatcher?utm_source=api"
+        },
+        {
+            "name": "Deification",
+            "scryfall_uri": "https://scryfall.com/card/mat/2/deification?utm_source=api"
+        },
+        {
+            "name": "Gutterbones",
+            "scryfall_uri": "https://scryfall.com/card/rna/76/gutterbones?utm_source=api"
+        },
+        {
+            "name": "Mindleecher",
+            "scryfall_uri": "https://scryfall.com/card/c20/44/mindleecher?utm_source=api"
+        },
+        {
+            "name": "Shapesharer",
+            "scryfall_uri": "https://scryfall.com/card/lrw/85/shapesharer?utm_source=api"
+        },
+        {
+            "name": "Malanthrope",
+            "scryfall_uri": "https://scryfall.com/card/40k/132/malanthrope?utm_source=api"
+        },
+        {
+            "name": "Deathrender",
+            "scryfall_uri": "https://scryfall.com/card/cns/197/deathrender?utm_source=api"
+        },
+        {
+            "name": "Kusari-Gama",
+            "scryfall_uri": "https://scryfall.com/card/chk/260/kusari-gama?utm_source=api"
+        },
+        {
+            "name": "Equilibrium",
+            "scryfall_uri": "https://scryfall.com/card/7ed/71/equilibrium?utm_source=api"
+        },
+        {
+            "name": "Catastrophe",
+            "scryfall_uri": "https://scryfall.com/card/usg/6/catastrophe?utm_source=api"
+        },
+        {
+            "name": "Dragonstorm",
+            "scryfall_uri": "https://scryfall.com/card/mma/111/dragonstorm?utm_source=api"
+        },
+        {
+            "name": "Pandemonium",
+            "scryfall_uri": "https://scryfall.com/card/tpr/149/pandemonium?utm_source=api"
+        },
+        {
+            "name": "Cryptoplasm",
+            "scryfall_uri": "https://scryfall.com/card/mbs/23/cryptoplasm?utm_source=api"
+        },
+        {
+            "name": "Spawnwrithe",
+            "scryfall_uri": "https://scryfall.com/card/ddm/55/spawnwrithe?utm_source=api"
+        },
+        {
+            "name": "Braingeyser",
+            "scryfall_uri": "https://scryfall.com/card/me4/40/braingeyser?utm_source=api"
+        },
+        {
+            "name": "Opalescence",
+            "scryfall_uri": "https://scryfall.com/card/uds/13/opalescence?utm_source=api"
+        },
+        {
+            "name": "Slitherwisp",
+            "scryfall_uri": "https://scryfall.com/card/iko/208/slitherwisp?utm_source=api"
+        },
+        {
+            "name": "Mirrorweave",
+            "scryfall_uri": "https://scryfall.com/card/cm2/162/mirrorweave?utm_source=api"
+        },
+        {
+            "name": "Wiretapping",
+            "scryfall_uri": "https://scryfall.com/card/snc/65/wiretapping?utm_source=api"
+        },
+        {
+            "name": "Remembrance",
+            "scryfall_uri": "https://scryfall.com/card/usg/34/remembrance?utm_source=api"
+        },
+        {
+            "name": "Wurmcalling",
+            "scryfall_uri": "https://scryfall.com/card/tsp/234/wurmcalling?utm_source=api"
+        },
+        {
+            "name": "Detritivore",
+            "scryfall_uri": "https://scryfall.com/card/plc/96/detritivore?utm_source=api"
+        },
+        {
+            "name": "Epochrasite",
+            "scryfall_uri": "https://scryfall.com/card/cm2/187/epochrasite?utm_source=api"
+        },
+        {
+            "name": "Phelddagrif",
+            "scryfall_uri": "https://scryfall.com/card/me1/150/phelddagrif?utm_source=api"
+        },
+        {
+            "name": "Peacekeeper",
+            "scryfall_uri": "https://scryfall.com/card/wth/22/peacekeeper?utm_source=api"
+        },
+        {
+            "name": "Standardize",
+            "scryfall_uri": "https://scryfall.com/card/ons/116/standardize?utm_source=api"
+        },
+        {
+            "name": "Spellbinder",
+            "scryfall_uri": "https://scryfall.com/card/dst/143/spellbinder?utm_source=api"
+        },
+        {
+            "name": "Counterlash",
+            "scryfall_uri": "https://scryfall.com/card/dka/33/counterlash?utm_source=api"
+        },
+        {
+            "name": "Borborygmos",
+            "scryfall_uri": "https://scryfall.com/card/gpt/103/borborygmos?utm_source=api"
+        },
+        {
+            "name": "Dawnstrider",
+            "scryfall_uri": "https://scryfall.com/card/mmq/237/dawnstrider?utm_source=api"
+        },
+        {
+            "name": "Devastation",
+            "scryfall_uri": "https://scryfall.com/card/me4/112/devastation?utm_source=api"
+        },
+        {
+            "name": "Slithermuse",
+            "scryfall_uri": "https://scryfall.com/card/mor/50/slithermuse?utm_source=api"
+        },
+        {
+            "name": "Heartseeker",
+            "scryfall_uri": "https://scryfall.com/card/dst/124/heartseeker?utm_source=api"
+        },
+        {
+            "name": "Brightflame",
+            "scryfall_uri": "https://scryfall.com/card/rav/194/brightflame?utm_source=api"
+        },
+        {
+            "name": "Skinshifter",
+            "scryfall_uri": "https://scryfall.com/card/m12/195/skinshifter?utm_source=api"
+        },
+        {
+            "name": "Realmwright",
+            "scryfall_uri": "https://scryfall.com/card/gtc/45/realmwright?utm_source=api"
+        },
+        {
+            "name": "Thundermare",
+            "scryfall_uri": "https://scryfall.com/card/9ed/224/thundermare?utm_source=api"
+        },
+        {
+            "name": "Triskelavus",
+            "scryfall_uri": "https://scryfall.com/card/cm2/226/triskelavus?utm_source=api"
+        },
+        {
+            "name": "Spawnbroker",
+            "scryfall_uri": "https://scryfall.com/card/rav/65/spawnbroker?utm_source=api"
+        },
+        {
+            "name": "Creeperhulk",
+            "scryfall_uri": "https://scryfall.com/card/cma/98/creeperhulk?utm_source=api"
+        },
+        {
+            "name": "Dragonshift",
+            "scryfall_uri": "https://scryfall.com/card/dgm/66/dragonshift?utm_source=api"
+        },
+        {
+            "name": "Carrionette",
+            "scryfall_uri": "https://scryfall.com/card/tmp/111/carrionette?utm_source=api"
+        },
+        {
+            "name": "Suncleanser",
+            "scryfall_uri": "https://scryfall.com/card/m19/39/suncleanser?utm_source=api"
+        },
+        {
+            "name": "Reparations",
+            "scryfall_uri": "https://scryfall.com/card/mir/278/reparations?utm_source=api"
+        },
+        {
+            "name": "Crackleburr",
+            "scryfall_uri": "https://scryfall.com/card/eve/100/crackleburr?utm_source=api"
+        },
+        {
+            "name": "Gigantiform",
+            "scryfall_uri": "https://scryfall.com/card/zen/162/gigantiform?utm_source=api"
+        },
+        {
+            "name": "Tombstalker",
+            "scryfall_uri": "https://scryfall.com/card/tsr/146/tombstalker?utm_source=api"
+        },
+        {
+            "name": "Heartmender",
+            "scryfall_uri": "https://scryfall.com/card/shm/228/heartmender?utm_source=api"
+        },
+        {
+            "name": "Glarecaster",
+            "scryfall_uri": "https://scryfall.com/card/ons/30/glarecaster?utm_source=api"
+        },
+        {
+            "name": "Jokulmorder",
+            "scryfall_uri": "https://scryfall.com/card/csp/37/jokulmorder?utm_source=api"
+        },
+        {
+            "name": "Anthroplasm",
+            "scryfall_uri": "https://scryfall.com/card/ulg/25/anthroplasm?utm_source=api"
+        },
+        {
+            "name": "Thoughtlace",
+            "scryfall_uri": "https://scryfall.com/card/4ed/107/thoughtlace?utm_source=api"
+        },
+        {
+            "name": "Necromentia",
+            "scryfall_uri": "https://scryfall.com/card/m21/116/necromentia?utm_source=api"
+        },
+        {
+            "name": "Recantation",
+            "scryfall_uri": "https://scryfall.com/card/usg/91/recantation?utm_source=api"
+        },
+        {
+            "name": "Chlorophant",
+            "scryfall_uri": "https://scryfall.com/card/ody/234/chlorophant?utm_source=api"
+        },
+        {
+            "name": "Gallowbraid",
+            "scryfall_uri": "https://scryfall.com/card/wth/70/gallowbraid?utm_source=api"
+        },
+        {
+            "name": "Perennation",
+            "scryfall_uri": "https://scryfall.com/card/tdm/212/perennation?utm_source=api"
+        },
+        {
+            "name": "Reclamation",
+            "scryfall_uri": "https://scryfall.com/card/ice/300/reclamation?utm_source=api"
+        },
+        {
+            "name": "Scalpelexis",
+            "scryfall_uri": "https://scryfall.com/card/10e/105/scalpelexis?utm_source=api"
+        },
+        {
+            "name": "Counterbore",
+            "scryfall_uri": "https://scryfall.com/card/shm/33/counterbore?utm_source=api"
+        },
+        {
+            "name": "Trailblazer",
+            "scryfall_uri": "https://scryfall.com/card/ice/272/trailblazer?utm_source=api"
+        },
+        {
+            "name": "Skullscorch",
+            "scryfall_uri": "https://scryfall.com/card/tor/114/skullscorch?utm_source=api"
+        },
+        {
+            "name": "Thumbscrews",
+            "scryfall_uri": "https://scryfall.com/card/tmp/312/thumbscrews?utm_source=api"
+        },
+        {
+            "name": "Excruciator",
+            "scryfall_uri": "https://scryfall.com/card/rav/121/excruciator?utm_source=api"
+        },
+        {
+            "name": "Valleymaker",
+            "scryfall_uri": "https://scryfall.com/card/shm/221/valleymaker?utm_source=api"
+        },
+        {
+            "name": "Morningtide",
+            "scryfall_uri": "https://scryfall.com/card/tor/10/morningtide?utm_source=api"
+        },
+        {
+            "name": "Arc-Slogger",
+            "scryfall_uri": "https://scryfall.com/card/mrd/85/arc-slogger?utm_source=api"
+        },
+        {
+            "name": "Eviscerator",
+            "scryfall_uri": "https://scryfall.com/card/ulg/52/eviscerator?utm_source=api"
+        },
+        {
+            "name": "Necravolver",
+            "scryfall_uri": "https://scryfall.com/card/apc/46/necravolver?utm_source=api"
+        },
+        {
+            "name": "Mercenaries",
+            "scryfall_uri": "https://scryfall.com/card/ice/44/mercenaries?utm_source=api"
+        },
+        {
+            "name": "Megatherium",
+            "scryfall_uri": "https://scryfall.com/card/mmq/259/megatherium?utm_source=api"
+        }
+    ]
+}
