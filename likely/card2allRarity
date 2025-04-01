@@ -1,0 +1,20 @@
+{
+    "num_matches": 3,
+    "likely_cards": [
+        {
+            "name": "Savage Ventmaw",
+            "edhrec_rank": 1410,
+            "scryfall_uri": "https://scryfall.com/card/fdn/665/savage-ventmaw?utm_source=api"
+        },
+        {
+            "name": "Deadly Tempest",
+            "edhrec_rank": 2642,
+            "scryfall_uri": "https://scryfall.com/card/c21/140/deadly-tempest?utm_source=api"
+        },
+        {
+            "name": "Legion Loyalty",
+            "edhrec_rank": 2932,
+            "scryfall_uri": "https://scryfall.com/card/tdc/122/legion-loyalty?utm_source=api"
+        }
+    ]
+}

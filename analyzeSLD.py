@@ -2,17 +2,28 @@ import json, sys
 import numpy as np
 from decimal import Decimal, ROUND_HALF_UP
 from typing import List
+from scipy.stats import skew
 
 # Given a set of cards, calculate their average EDHRec rank
 def avg_rank(cards):
-    sum = 0
-    totalCards = 0
+    rank_list = []
+
     for card in cards:
         if 'edhrec_rank' in card:
-            sum += card['edhrec_rank']
-            totalCards += 1
+            rank_list.append(card['edhrec_rank'])
+    
+    print(rank_list)
+    rank_list = np.array(rank_list)
+    averages = dict()
+    averages['mean_rank'] = np.mean(rank_list)
+    averages['median_rank'] = np.median(rank_list)
+    averages['standard_deviation'] = np.std(rank_list)
+    averages['skew'] = skew(rank_list)
+    return averages
 
-    return int(sum // totalCards)
+def z_scores(cards):
+    
+    for card in cards:
 
 def calc_avgs(cards):
     norm_price_list = []
@@ -61,10 +72,9 @@ if __name__ == "__main__":
     with open("SLD_Cards.json", 'r') as file:
         cards = json.load(file)
     
-    avg_edh_rank = avg_rank(cards)
-    averages = calc_avgs(cards)
+    averages = avg_rank(cards)
+    averages.update(calc_avgs(cards))
 
-    print(f"Average EDHREC Rank: {avg_edh_rank}")
     for key, value in averages.items():
         print(f"{key.replace('_', ' ').title()}: {value:.2f}")
 

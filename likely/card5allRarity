@@ -1,0 +1,35 @@
+{
+    "num_matches": 6,
+    "likely_cards": [
+        {
+            "name": "Omniscience",
+            "edhrec_rank": 1062,
+            "scryfall_uri": "https://scryfall.com/card/fdn/161/omniscience?utm_source=api"
+        },
+        {
+            "name": "Embercleave",
+            "edhrec_rank": 1208,
+            "scryfall_uri": "https://scryfall.com/card/eld/120/embercleave?utm_source=api"
+        },
+        {
+            "name": "Expropriate",
+            "edhrec_rank": 2148,
+            "scryfall_uri": "https://scryfall.com/card/cn2/30/expropriate?utm_source=api"
+        },
+        {
+            "name": "Camaraderie",
+            "edhrec_rank": 3487,
+            "scryfall_uri": "https://scryfall.com/card/ncc/334/camaraderie?utm_source=api"
+        },
+        {
+            "name": "Nulldrifter",
+            "edhrec_rank": 3625,
+            "scryfall_uri": "https://scryfall.com/card/mh3/13/nulldrifter?utm_source=api"
+        },
+        {
+            "name": "Tromokratis",
+            "edhrec_rank": 4032,
+            "scryfall_uri": "https://scryfall.com/card/cmm/129/tromokratis?utm_source=api"
+        }
+    ]
+}

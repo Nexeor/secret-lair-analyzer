@@ -19,7 +19,7 @@ class Evaluator:
         """
         # print(card)
         isValid = True
-        if 'edhrec_rank' not in card or card['edhrec_rank'] <= 4035:
+        if 'edhrec_rank' not in card or card['edhrec_rank'] >= 4035:
             isValid = False
         elif card['rarity'] not in ["rare", "mythic"]:
             isValid = False
@@ -36,7 +36,7 @@ class Evaluator:
     
     def write_to_file(self, filepath):
         with open(filepath, 'w') as output:            
-            filtered_cards = [{k: d[k] for k in ["name", "scryfall_uri"] if k in d} for d in self.validCards]
+            filtered_cards = [{k: d[k] for k in ["name", "edhrec_rank", "scryfall_uri"] if k in d} for d in self.validCards]
             json.dump({"num_matches" : len(filtered_cards), "likely_cards" : filtered_cards}, output, indent=4)
 
 if __name__ == "__main__":

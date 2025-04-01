@@ -1,6 +1,11 @@
 {
-    "num_matches": 18,
+    "num_matches": 33,
     "likely_cards": [
+        {
+            "name": "Vandalblast",
+            "edhrec_rank": 102,
+            "scryfall_uri": "https://scryfall.com/card/otc/183/vandalblast?utm_source=api"
+        },
         {
             "name": "Exploration",
             "edhrec_rank": 282,
@@ -12,14 +17,39 @@
             "scryfall_uri": "https://scryfall.com/card/thb/236/shadowspear?utm_source=api"
         },
         {
+            "name": "Guttersnipe",
+            "edhrec_rank": 392,
+            "scryfall_uri": "https://scryfall.com/card/tdc/217/guttersnipe?utm_source=api"
+        },
+        {
+            "name": "Mulldrifter",
+            "edhrec_rank": 493,
+            "scryfall_uri": "https://scryfall.com/card/mkc/111/mulldrifter?utm_source=api"
+        },
+        {
+            "name": "Cankerbloom",
+            "edhrec_rank": 498,
+            "scryfall_uri": "https://scryfall.com/card/one/161/cankerbloom?utm_source=api"
+        },
+        {
             "name": "Realmwalker",
             "edhrec_rank": 536,
             "scryfall_uri": "https://scryfall.com/card/lcc/250/realmwalker?utm_source=api"
         },
         {
+            "name": "Ornithopter",
+            "edhrec_rank": 707,
+            "scryfall_uri": "https://scryfall.com/card/dmr/233/ornithopter?utm_source=api"
+        },
+        {
             "name": "Spellseeker",
             "edhrec_rank": 863,
             "scryfall_uri": "https://scryfall.com/card/cmm/120/spellseeker?utm_source=api"
+        },
+        {
+            "name": "Thoughtcast",
+            "edhrec_rank": 911,
+            "scryfall_uri": "https://scryfall.com/card/moc/242/thoughtcast?utm_source=api"
         },
         {
             "name": "Omniscience",
@@ -42,9 +72,24 @@
             "scryfall_uri": "https://scryfall.com/card/m13/145/reverberate?utm_source=api"
         },
         {
+            "name": "Gingerbrute",
+            "edhrec_rank": 1341,
+            "scryfall_uri": "https://scryfall.com/card/woe/246/gingerbrute?utm_source=api"
+        },
+        {
             "name": "Mockingbird",
             "edhrec_rank": 1865,
             "scryfall_uri": "https://scryfall.com/card/blb/61/mockingbird?utm_source=api"
+        },
+        {
+            "name": "Flickerwisp",
+            "edhrec_rank": 2023,
+            "scryfall_uri": "https://scryfall.com/card/2x2/11/flickerwisp?utm_source=api"
+        },
+        {
+            "name": "Deathsprout",
+            "edhrec_rank": 2144,
+            "scryfall_uri": "https://scryfall.com/card/c20/208/deathsprout?utm_source=api"
         },
         {
             "name": "Expropriate",
@@ -55,6 +100,26 @@
             "name": "Mirrorworks",
             "edhrec_rank": 2519,
             "scryfall_uri": "https://scryfall.com/card/c18/211/mirrorworks?utm_source=api"
+        },
+        {
+            "name": "Cloudblazer",
+            "edhrec_rank": 2661,
+            "scryfall_uri": "https://scryfall.com/card/fdn/653/cloudblazer?utm_source=api"
+        },
+        {
+            "name": "Timetwister",
+            "edhrec_rank": 2686,
+            "scryfall_uri": "https://scryfall.com/card/vma/3/timetwister?utm_source=api"
+        },
+        {
+            "name": "Skullwinder",
+            "edhrec_rank": 2765,
+            "scryfall_uri": "https://scryfall.com/card/otc/207/skullwinder?utm_source=api"
+        },
+        {
+            "name": "Overprotect",
+            "edhrec_rank": 2856,
+            "scryfall_uri": "https://scryfall.com/card/blb/185/overprotect?utm_source=api"
         },
         {
             "name": "Hushbringer",
@@ -70,6 +135,11 @@
             "name": "Camaraderie",
             "edhrec_rank": 3487,
             "scryfall_uri": "https://scryfall.com/card/ncc/334/camaraderie?utm_source=api"
+        },
+        {
+            "name": "Pridemalkin",
+            "edhrec_rank": 3523,
+            "scryfall_uri": "https://scryfall.com/card/moc/308/pridemalkin?utm_source=api"
         },
         {
             "name": "Nulldrifter",
@@ -90,6 +160,11 @@
             "name": "Batterskull",
             "edhrec_rank": 4028,
             "scryfall_uri": "https://scryfall.com/card/2xm/234/batterskull?utm_source=api"
+        },
+        {
+            "name": "Tromokratis",
+            "edhrec_rank": 4032,
+            "scryfall_uri": "https://scryfall.com/card/cmm/129/tromokratis?utm_source=api"
         }
     ]
 }
